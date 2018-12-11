@@ -1,0 +1,1805 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+                              build/u2f-apdu.o (memcmp)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                              build/usb-hid.o (memcpy)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                              build/usb-hid.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+                              build/dbug.o (strlen)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 build/u2f.o
+ .data          0x0000000000000000        0x0 build/u2f.o
+ .bss           0x0000000000000000        0x0 build/u2f.o
+ .text          0x0000000000000000        0x0 build/usb-hid.o
+ .data          0x0000000000000000        0x0 build/usb-hid.o
+ .bss           0x0000000000000000        0x0 build/usb-hid.o
+ .text          0x0000000000000000        0x0 build/dbug.o
+ .data          0x0000000000000000        0x0 build/dbug.o
+ .bss           0x0000000000000000        0x0 build/dbug.o
+ .text.dbg_send_command
+                0x0000000000000000        0xc build/dbug.o
+ .text.dbg_print
+                0x0000000000000000       0x1e build/dbug.o
+ .debug_info    0x0000000000000000      0x979 build/dbug.o
+ .debug_abbrev  0x0000000000000000      0x22a build/dbug.o
+ .debug_loc     0x0000000000000000       0x91 build/dbug.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/dbug.o
+ .debug_ranges  0x0000000000000000       0x30 build/dbug.o
+ .debug_line    0x0000000000000000      0x137 build/dbug.o
+ .debug_str     0x0000000000000000      0x58e build/dbug.o
+ .comment       0x0000000000000000       0x80 build/dbug.o
+ .debug_frame   0x0000000000000000       0x3c build/dbug.o
+ .ARM.attributes
+                0x0000000000000000       0x33 build/dbug.o
+ .text          0x0000000000000000        0x0 build/u2f-hid.o
+ .data          0x0000000000000000        0x0 build/u2f-hid.o
+ .bss           0x0000000000000000        0x0 build/u2f-hid.o
+ .text          0x0000000000000000        0x0 build/u2f-apdu.o
+ .data          0x0000000000000000        0x0 build/u2f-apdu.o
+ .bss           0x0000000000000000        0x0 build/u2f-apdu.o
+ .text          0x0000000000000000        0x0 build/sha256.o
+ .data          0x0000000000000000        0x0 build/sha256.o
+ .bss           0x0000000000000000        0x0 build/sha256.o
+ .text.sha256   0x0000000000000000       0x26 build/sha256.o
+ .text          0x0000000000000000        0x0 build/neug.o
+ .data          0x0000000000000000        0x0 build/neug.o
+ .bss           0x0000000000000000        0x0 build/neug.o
+ .text.crc32_rv_step
+                0x0000000000000000        0xc build/neug.o
+ .text.crc32_rv_get
+                0x0000000000000000        0xc build/neug.o
+ .text.rbit     0x0000000000000000        0x6 build/neug.o
+ .text.neug_kick_filling
+                0x0000000000000000       0x2c build/neug.o
+ .text.neug_get_nonblock
+                0x0000000000000000       0x3c build/neug.o
+ .text.neug_consume_random
+                0x0000000000000000       0x40 build/neug.o
+ .text.neug_fini
+                0x0000000000000000       0x24 build/neug.o
+ .text.neug_mode_select
+                0x0000000000000000       0x44 build/neug.o
+ .text          0x0000000000000000        0x0 build/random.o
+ .data          0x0000000000000000        0x0 build/random.o
+ .bss           0x0000000000000000        0x0 build/random.o
+ .text.random_fini
+                0x0000000000000000        0x4 build/random.o
+ .text.random_get_salt
+                0x0000000000000000       0x16 build/random.o
+ .text          0x0000000000000000        0x0 build/ec_p256r1.o
+ .data          0x0000000000000000        0x0 build/ec_p256r1.o
+ .bss           0x0000000000000000        0x0 build/ec_p256r1.o
+ .text.compute_kP_p256r1
+                0x0000000000000000      0x284 build/ec_p256r1.o
+ .text.check_secret_p256r1
+                0x0000000000000000       0x40 build/ec_p256r1.o
+ .rodata.coefficient_a
+                0x0000000000000000       0x20 build/ec_p256r1.o
+ .rodata.coefficient_b
+                0x0000000000000000       0x20 build/ec_p256r1.o
+ .text          0x0000000000000000        0x0 build/bn.o
+ .data          0x0000000000000000        0x0 build/bn.o
+ .bss           0x0000000000000000        0x0 build/bn.o
+ .text          0x0000000000000000        0x0 build/jpc_p256r1.o
+ .data          0x0000000000000000        0x0 build/jpc_p256r1.o
+ .bss           0x0000000000000000        0x0 build/jpc_p256r1.o
+ .text          0x0000000000000000        0x0 build/call-ec_p256r1.o
+ .data          0x0000000000000000        0x0 build/call-ec_p256r1.o
+ .bss           0x0000000000000000        0x0 build/call-ec_p256r1.o
+ .text.ecdh_decrypt_p256r1
+                0x0000000000000000       0x76 build/call-ec_p256r1.o
+ .text.ecc_check_secret_p256r1
+                0x0000000000000000        0x4 build/call-ec_p256r1.o
+ .text          0x0000000000000000        0x0 build/modp256r1.o
+ .data          0x0000000000000000        0x0 build/modp256r1.o
+ .bss           0x0000000000000000        0x0 build/modp256r1.o
+ .text          0x0000000000000000        0x0 build/mod.o
+ .data          0x0000000000000000        0x0 build/mod.o
+ .bss           0x0000000000000000        0x0 build/mod.o
+ .text          0x0000000000000000        0x0 build/hmac.o
+ .data          0x0000000000000000        0x0 build/hmac.o
+ .bss           0x0000000000000000        0x0 build/hmac.o
+ .text          0x0000000000000000        0x0 build/platform.o
+ .data          0x0000000000000000        0x0 build/platform.o
+ .bss           0x0000000000000000        0x0 build/platform.o
+ .text          0x0000000000000000        0x0 build/uvoid.o
+ .data          0x0000000000000000        0x0 build/uvoid.o
+ .bss           0x0000000000000000        0x0 build/uvoid.o
+ .text          0x0000000000000000        0x0 build/entry.o
+ .data          0x0000000000000000        0x0 build/entry.o
+ .bss           0x0000000000000000        0x0 build/entry.o
+ .text          0x0000000000000000        0x0 build/chopstx.o
+ .data          0x0000000000000000        0x0 build/chopstx.o
+ .bss           0x0000000000000000        0x0 build/chopstx.o
+ .text.chopstx_cond_broadcast
+                0x0000000000000000       0x2e build/chopstx.o
+ .text.chopstx_cleanup_push
+                0x0000000000000000       0x10 build/chopstx.o
+ .text.chopstx_cleanup_pop
+                0x0000000000000000       0x1c build/chopstx.o
+ .text.chopstx_cancel
+                0x0000000000000000       0x78 build/chopstx.o
+ .text.chopstx_join
+                0x0000000000000000       0xa4 build/chopstx.o
+ .text.chopstx_setcancelstate
+                0x0000000000000000       0x28 build/chopstx.o
+ .text.chopstx_intr_wait
+                0x0000000000000000       0x16 build/chopstx.o
+ .text.chopstx_setpriority
+                0x0000000000000000       0x3c build/chopstx.o
+ .text          0x0000000000000000        0x0 build/eventflag.o
+ .data          0x0000000000000000        0x0 build/eventflag.o
+ .bss           0x0000000000000000        0x0 build/eventflag.o
+ .text          0x0000000000000000        0x0 build/sys-stm32f103.o
+ .data          0x0000000000000000        0x0 build/sys-stm32f103.o
+ .bss           0x0000000000000000        0x0 build/sys-stm32f103.o
+ .text          0x0000000000000000        0x0 build/usb-stm32f103.o
+ .data          0x0000000000000000        0x0 build/usb-stm32f103.o
+ .bss           0x0000000000000000        0x0 build/usb-stm32f103.o
+ .text.usb_lld_prepare_shutdown
+                0x0000000000000000       0x10 build/usb-stm32f103.o
+ .text.usb_lld_shutdown
+                0x0000000000000000       0x14 build/usb-stm32f103.o
+ .text.usb_lld_ctrl_recv
+                0x0000000000000000       0x18 build/usb-stm32f103.o
+ .text.usb_lld_write
+                0x0000000000000000       0x30 build/usb-stm32f103.o
+ .text          0x0000000000000000        0x0 build/adc-stm32f103.o
+ .data          0x0000000000000000        0x0 build/adc-stm32f103.o
+ .bss           0x0000000000000000        0x0 build/adc-stm32f103.o
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .text.strlen   0x0000000000000000       0x5c /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash0           0x0000000008002000 0x0000000000001000
+flash            0x0000000008003000 0x000000000000e800
+flash1           0x0000000008011800 0x0000000000000800
+ram              0x0000000020000000 0x0000000000005000
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/u2f.o
+LOAD build/usb-hid.o
+LOAD build/dbug.o
+LOAD build/u2f-hid.o
+LOAD build/u2f-apdu.o
+LOAD build/sha256.o
+LOAD build/neug.o
+LOAD build/random.o
+LOAD build/ec_p256r1.o
+LOAD build/bn.o
+LOAD build/jpc_p256r1.o
+LOAD build/call-ec_p256r1.o
+LOAD build/modp256r1.o
+LOAD build/mod.o
+LOAD build/hmac.o
+LOAD build/platform.o
+LOAD build/uvoid.o
+LOAD build/entry.o
+LOAD build/chopstx.o
+LOAD build/eventflag.o
+LOAD build/sys-stm32f103.o
+LOAD build/usb-stm32f103.o
+LOAD build/adc-stm32f103.o
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a
+END GROUP
+                0x0000000000000100                __main_stack_size__ = 0x100
+                0x0000000000000400                __process0_stack_size__ = 0x400
+                0x0000000000000200                __process1_stack_size__ = 0x200
+                0x0000000000000200                __process2_stack_size__ = 0x200
+                0x0000000000000200                __process3_stack_size__ = 0x200
+                0x0000000000001000                __process4_stack_size__ = 0x1000
+                0x0000000000000500                __process5_stack_size__ = 0x500
+                0x0000000000000200                __process6_stack_size__ = 0x200
+                0x0000000020000000                __ram_start__ = ORIGIN (ram)
+                0x0000000000005000                __ram_size__ = 0x5000
+                0x0000000020005000                __ram_end__ = (__ram_start__ + __ram_size__)
+                0x0000000000000000                . = 0x0
+
+.sys            0x0000000008002000     0x1000
+                0x0000000008002000                _sys = .
+ *(.vectors)
+ .vectors       0x0000000008002000       0x40 build/sys-stm32f103.o
+                0x0000000008002000                vector
+                0x0000000008002040                . = ALIGN (0x10)
+ *(.sys.version)
+ .sys.version   0x0000000008002040        0x8 build/sys-stm32f103.o
+                0x0000000008002040                sys_version
+ *(.sys.board_id)
+ .sys.board_id  0x0000000008002048        0x4 build/sys-stm32f103.o
+                0x0000000008002048                sys_board_id
+ *(.sys.board_name)
+ .sys.board_name
+                0x000000000800204c        0xb build/sys-stm32f103.o
+                0x000000000800204c                sys_board_name
+ build/sys-*.o(.text)
+ build/sys-*.o(.text.*)
+ *fill*         0x0000000008002057        0x1 
+ .text.clock_init
+                0x0000000008002058       0x7c build/sys-stm32f103.o
+ .text.gpio_init
+                0x00000000080020d4       0x48 build/sys-stm32f103.o
+ .text.set_led  0x000000000800211c       0x14 build/sys-stm32f103.o
+                0x000000000800211c                set_led
+ .text.usb_lld_sys_shutdown
+                0x0000000008002130       0x20 build/sys-stm32f103.o
+ .text.flash_unlock
+                0x0000000008002150       0x18 build/sys-stm32f103.o
+ .text.flash_wait_for_last_operation
+                0x0000000008002168       0x18 build/sys-stm32f103.o
+ .text.flash_program_halfword
+                0x0000000008002180       0x38 build/sys-stm32f103.o
+ .text.flash_erase_page
+                0x00000000080021b8       0x3c build/sys-stm32f103.o
+ .text.flash_check_blank
+                0x00000000080021f4       0x18 build/sys-stm32f103.o
+ .text.flash_erase_all_and_exec
+                0x000000000800220c       0x48 build/sys-stm32f103.o
+ .text.nvic_system_reset
+                0x0000000008002254       0x1c build/sys-stm32f103.o
+ .text.reset    0x0000000008002270       0x3c build/sys-stm32f103.o
+ .text.flash_write
+                0x00000000080022ac       0x48 build/sys-stm32f103.o
+ .text.flash_protect
+                0x00000000080022f4       0x5c build/sys-stm32f103.o
+ .text.usb_lld_sys_init
+                0x0000000008002350       0x44 build/sys-stm32f103.o
+ build/sys-*.o(.rodata)
+ build/sys-*.o(.rodata.*)
+                0x0000000008002400                . = ALIGN (0x400)
+ *fill*         0x0000000008002394       0x6c 
+ *(.sys.0)
+ .sys.0         0x0000000008002400      0x400 build/sys-stm32f103.o
+                0x0000000008002400                FT0
+ *(.sys.1)
+ .sys.1         0x0000000008002800      0x400 build/sys-stm32f103.o
+                0x0000000008002800                FT1
+ *(.sys.2)
+ .sys.2         0x0000000008002c00      0x400 build/sys-stm32f103.o
+                0x0000000008002c00                FT2
+                0x0000000008003000                _text = .
+
+.startup        0x0000000008003000      0x140
+ *(.startup.vectors)
+ .startup.vectors
+                0x0000000008003000      0x138 build/entry.o
+                0x0000000008003000                vector_table
+                0x0000000008003140                . = ALIGN (0x10)
+ *fill*         0x0000000008003138        0x8 ffffffff
+
+.text           0x0000000008003140     0x6150
+ *(.text.startup.*)
+ .text.startup.main
+                0x0000000008003140       0xb4 build/u2f.o
+                0x0000000008003140                main
+ *fill*         0x00000000080031f4        0xc 
+ .text.startup.0
+                0x0000000008003200       0x78 build/entry.o
+ *(.text)
+ *fill*         0x0000000008003278        0x8 
+ .text          0x0000000008003280       0xec /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                0x0000000008003280                memcpy
+ *(.text.*)
+ *fill*         0x000000000800336c        0x4 
+ .text.blk      0x0000000008003370       0x5c build/u2f.o
+ *fill*         0x00000000080033cc        0x4 
+ .text.pwm      0x00000000080033d0       0x54 build/u2f.o
+ *fill*         0x0000000008003424        0xc 
+ .text.hid_setup_endpoints_for_interface.isra.2.part.3
+                0x0000000008003430       0x20 build/usb-hid.o
+ .text.hid_main
+                0x0000000008003450      0x268 build/usb-hid.o
+ *fill*         0x00000000080036b8        0x8 
+ .text.hid_open
+                0x00000000080036c0       0x28 build/usb-hid.o
+                0x00000000080036c0                hid_open
+ *fill*         0x00000000080036e8        0x8 
+ .text.hid_send
+                0x00000000080036f0       0x2e build/usb-hid.o
+                0x00000000080036f0                hid_send
+ *fill*         0x000000000800371e        0x2 
+ .text.hid_recv
+                0x0000000008003720       0x42 build/usb-hid.o
+                0x0000000008003720                hid_recv
+ *fill*         0x0000000008003762        0xe 
+ .text.u2f_send_msg
+                0x0000000008003770       0x8c build/u2f-hid.o
+ *fill*         0x00000000080037fc        0x4 
+ .text.u2f_send_error
+                0x0000000008003800       0x2e build/u2f-hid.o
+ *fill*         0x000000000800382e        0x2 
+ .text.u2f_hid_main
+                0x0000000008003830      0x218 build/u2f-hid.o
+ *fill*         0x0000000008003a48        0x8 
+ .text.u2f_hid_open
+                0x0000000008003a50       0x40 build/u2f-hid.o
+                0x0000000008003a50                u2f_hid_open
+ .text.flash_erase_page
+                0x0000000008003a90        0xc build/u2f-apdu.o
+ *fill*         0x0000000008003a9c        0x4 
+ .text.flash_write
+                0x0000000008003aa0        0xc build/u2f-apdu.o
+ *fill*         0x0000000008003aac        0x4 
+ .text.u2f_read_ctr
+                0x0000000008003ab0       0x38 build/u2f-apdu.o
+ *fill*         0x0000000008003ae8        0x8 
+ .text.append_sw
+                0x0000000008003af0       0x16 build/u2f-apdu.o
+ *fill*         0x0000000008003b06        0xa 
+ .text.u2f_apdu_error
+                0x0000000008003b10        0xc build/u2f-apdu.o
+ *fill*         0x0000000008003b1c        0x4 
+ .text.der_encode_uint.constprop.0
+                0x0000000008003b20       0x40 build/u2f-apdu.o
+ .text.der_encode_sig
+                0x0000000008003b60       0x2c build/u2f-apdu.o
+ *fill*         0x0000000008003b8c        0x4 
+ .text.u2f_authenticate
+                0x0000000008003b90       0xe8 build/u2f-apdu.o
+ *fill*         0x0000000008003c78        0x8 
+ .text.u2f_register
+                0x0000000008003c80      0x138 build/u2f-apdu.o
+ *fill*         0x0000000008003db8        0x8 
+ .text.u2f_apdu_init
+                0x0000000008003dc0       0x8c build/u2f-apdu.o
+                0x0000000008003dc0                u2f_apdu_init
+ *fill*         0x0000000008003e4c        0x4 
+ .text.u2f_apdu_command_do
+                0x0000000008003e50      0x11c build/u2f-apdu.o
+                0x0000000008003e50                u2f_apdu_command_do
+ *fill*         0x0000000008003f6c        0x4 
+ .text.sha256_process
+                0x0000000008003f70      0xcb4 build/sha256.o
+                0x0000000008003f70                sha256_process
+ *fill*         0x0000000008004c24        0xc 
+ .text.sha256_update
+                0x0000000008004c30       0x50 build/sha256.o
+                0x0000000008004c30                sha256_update
+ .text.sha256_finish
+                0x0000000008004c80       0xac build/sha256.o
+                0x0000000008004c80                sha256_finish
+ *fill*         0x0000000008004d2c        0x4 
+ .text.sha256_start
+                0x0000000008004d30       0x2c build/sha256.o
+                0x0000000008004d30                sha256_start
+ *fill*         0x0000000008004d5c        0x4 
+ .text.noise_source_error
+                0x0000000008004d60       0x50 build/neug.o
+ .text.noise_source_continuous_test
+                0x0000000008004db0       0xe8 build/neug.o
+ *fill*         0x0000000008004e98        0x8 
+ .text.ep_init  0x0000000008004ea0       0x64 build/neug.o
+ *fill*         0x0000000008004f04        0xc 
+ .text.rb_del.constprop.2
+                0x0000000008004f10       0x4c build/neug.o
+ *fill*         0x0000000008004f5c        0x4 
+ .text.ep_fill_wbuf_v.constprop.4
+                0x0000000008004f60      0x178 build/neug.o
+ *fill*         0x00000000080050d8        0x8 
+ .text.rng      0x00000000080050e0      0x314 build/neug.o
+ *fill*         0x00000000080053f4        0xc 
+ .text.crc32_rv_reset
+                0x0000000008005400       0x1c build/neug.o
+                0x0000000008005400                crc32_rv_reset
+ *fill*         0x000000000800541c        0x4 
+ .text.neug_init
+                0x0000000008005420       0x88 build/neug.o
+                0x0000000008005420                neug_init
+ *fill*         0x00000000080054a8        0x8 
+ .text.neug_flush
+                0x00000000080054b0       0x34 build/neug.o
+                0x00000000080054b0                neug_flush
+ *fill*         0x00000000080054e4        0xc 
+ .text.neug_get
+                0x00000000080054f0       0x48 build/neug.o
+                0x00000000080054f0                neug_get
+ *fill*         0x0000000008005538        0x8 
+ .text.neug_wait_full
+                0x0000000008005540       0x34 build/neug.o
+                0x0000000008005540                neug_wait_full
+ *fill*         0x0000000008005574        0xc 
+ .text.random_init
+                0x0000000008005580       0x1c build/random.o
+                0x0000000008005580                random_init
+ *fill*         0x000000000800559c        0x4 
+ .text.random_bytes_get
+                0x00000000080055a0       0x10 build/random.o
+                0x00000000080055a0                random_bytes_get
+ .text.random_bytes_free
+                0x00000000080055b0       0x18 build/random.o
+                0x00000000080055b0                random_bytes_free
+ *fill*         0x00000000080055c8        0x8 
+ .text.random_gen
+                0x00000000080055d0       0x50 build/random.o
+                0x00000000080055d0                random_gen
+ .text.get_vk   0x0000000008005620       0x42 build/ec_p256r1.o
+ *fill*         0x0000000008005662        0xe 
+ .text.compute_kG_p256r1
+                0x0000000008005670       0xcc build/ec_p256r1.o
+                0x0000000008005670                compute_kG_p256r1
+ *fill*         0x000000000800573c        0x4 
+ .text.ecdsa_p256r1
+                0x0000000008005740       0xf0 build/ec_p256r1.o
+                0x0000000008005740                ecdsa_p256r1
+ .text.bn256_add
+                0x0000000008005830       0x32 build/bn.o
+                0x0000000008005830                bn256_add
+ *fill*         0x0000000008005862        0xe 
+ .text.bn256_sub
+                0x0000000008005870       0x36 build/bn.o
+                0x0000000008005870                bn256_sub
+ *fill*         0x00000000080058a6        0xa 
+ .text.bn256_add_uint
+                0x00000000080058b0       0x24 build/bn.o
+                0x00000000080058b0                bn256_add_uint
+ *fill*         0x00000000080058d4        0xc 
+ .text.bn256_sub_uint
+                0x00000000080058e0       0x22 build/bn.o
+                0x00000000080058e0                bn256_sub_uint
+ *fill*         0x0000000008005902        0xe 
+ .text.bn256_mul
+                0x0000000008005910      0x466 build/bn.o
+                0x0000000008005910                bn256_mul
+ *fill*         0x0000000008005d76        0xa 
+ .text.bn256_sqr
+                0x0000000008005d80       0xd8 build/bn.o
+                0x0000000008005d80                bn256_sqr
+ *fill*         0x0000000008005e58        0x8 
+ .text.bn256_shift
+                0x0000000008005e60       0x5e build/bn.o
+                0x0000000008005e60                bn256_shift
+ *fill*         0x0000000008005ebe        0x2 
+ .text.bn256_is_zero
+                0x0000000008005ec0       0x18 build/bn.o
+                0x0000000008005ec0                bn256_is_zero
+ *fill*         0x0000000008005ed8        0x8 
+ .text.bn256_is_even
+                0x0000000008005ee0        0xa build/bn.o
+                0x0000000008005ee0                bn256_is_even
+ *fill*         0x0000000008005eea        0x6 
+ .text.bn256_is_ge
+                0x0000000008005ef0       0x1a build/bn.o
+                0x0000000008005ef0                bn256_is_ge
+ *fill*         0x0000000008005f0a        0x6 
+ .text.bn256_cmp
+                0x0000000008005f10       0x2a build/bn.o
+                0x0000000008005f10                bn256_cmp
+ *fill*         0x0000000008005f3a        0x6 
+ .text.bn256_random
+                0x0000000008005f40       0x30 build/bn.o
+                0x0000000008005f40                bn256_random
+ .text.jpc_double_p256r1
+                0x0000000008005f70       0xee build/jpc_p256r1.o
+                0x0000000008005f70                jpc_double_p256r1
+ *fill*         0x000000000800605e        0x2 
+ .text.jpc_add_ac_signed_p256r1
+                0x0000000008006060      0x198 build/jpc_p256r1.o
+                0x0000000008006060                jpc_add_ac_signed_p256r1
+ *fill*         0x00000000080061f8        0x8 
+ .text.jpc_add_ac_p256r1
+                0x0000000008006200        0x6 build/jpc_p256r1.o
+                0x0000000008006200                jpc_add_ac_p256r1
+ *fill*         0x0000000008006206        0xa 
+ .text.jpc_to_ac_p256r1
+                0x0000000008006210       0x5c build/jpc_p256r1.o
+                0x0000000008006210                jpc_to_ac_p256r1
+ *fill*         0x000000000800626c        0x4 
+ .text.ecdsa_sign_p256r1
+                0x0000000008006270       0x5e build/call-ec_p256r1.o
+                0x0000000008006270                ecdsa_sign_p256r1
+ *fill*         0x00000000080062ce        0x2 
+ .text.ecc_compute_public_p256r1
+                0x00000000080062d0       0x52 build/call-ec_p256r1.o
+                0x00000000080062d0                ecc_compute_public_p256r1
+ *fill*         0x0000000008006322        0xe 
+ .text.modp256r1_add
+                0x0000000008006330       0x40 build/modp256r1.o
+                0x0000000008006330                modp256r1_add
+ .text.modp256r1_sub
+                0x0000000008006370       0x38 build/modp256r1.o
+                0x0000000008006370                modp256r1_sub
+ *fill*         0x00000000080063a8        0x8 
+ .text.modp256r1_reduce
+                0x00000000080063b0      0x218 build/modp256r1.o
+                0x00000000080063b0                modp256r1_reduce
+ *fill*         0x00000000080065c8        0x8 
+ .text.modp256r1_mul
+                0x00000000080065d0       0x18 build/modp256r1.o
+                0x00000000080065d0                modp256r1_mul
+ *fill*         0x00000000080065e8        0x8 
+ .text.modp256r1_sqr
+                0x00000000080065f0       0x18 build/modp256r1.o
+                0x00000000080065f0                modp256r1_sqr
+ *fill*         0x0000000008006608        0x8 
+ .text.modp256r1_shift
+                0x0000000008006610       0x68 build/modp256r1.o
+                0x0000000008006610                modp256r1_shift
+ *fill*         0x0000000008006678        0x8 
+ .text.mod_reduce
+                0x0000000008006680      0x1fc build/mod.o
+                0x0000000008006680                mod_reduce
+ *fill*         0x000000000800687c        0x4 
+ .text.mod_inv  0x0000000008006880      0x2ce build/mod.o
+                0x0000000008006880                mod_inv
+ *fill*         0x0000000008006b4e        0x2 
+ .text._hmac_sha256_finish
+                0x0000000008006b50        0x6 build/hmac.o
+ *fill*         0x0000000008006b56        0xa 
+ .text._hmac_sha256_update
+                0x0000000008006b60        0x6 build/hmac.o
+ *fill*         0x0000000008006b66        0xa 
+ .text._hmac_sha256_init
+                0x0000000008006b70        0x6 build/hmac.o
+ *fill*         0x0000000008006b76        0xa 
+ .text.hmac_sha256_init
+                0x0000000008006b80       0x68 build/hmac.o
+                0x0000000008006b80                hmac_sha256_init
+ *fill*         0x0000000008006be8        0x8 
+ .text.hmac_sha256_update
+                0x0000000008006bf0        0x4 build/hmac.o
+                0x0000000008006bf0                hmac_sha256_update
+ *fill*         0x0000000008006bf4        0xc 
+ .text.hmac_sha256_finish
+                0x0000000008006c00       0x62 build/hmac.o
+                0x0000000008006c00                hmac_sha256_finish
+ *fill*         0x0000000008006c62        0xe 
+ .text.platform_init
+                0x0000000008006c70        0x2 build/platform.o
+                0x0000000008006c70                platform_init
+ *fill*         0x0000000008006c72        0xe 
+ .text.uvoid    0x0000000008006c80       0x28 build/uvoid.o
+ *fill*         0x0000000008006ca8        0x8 
+ .text.user_presence_get
+                0x0000000008006cb0        0xc build/uvoid.o
+                0x0000000008006cb0                user_presence_get
+ *fill*         0x0000000008006cbc        0x4 
+ .text.user_presence_reset
+                0x0000000008006cc0        0xc build/uvoid.o
+                0x0000000008006cc0                user_presence_reset
+ *fill*         0x0000000008006ccc        0x4 
+ .text.uvoid_init
+                0x0000000008006cd0       0x24 build/uvoid.o
+                0x0000000008006cd0                uvoid_init
+ *fill*         0x0000000008006cf4        0xc 
+ .text.nmi      0x0000000008006d00        0x2 build/entry.o
+ *fill*         0x0000000008006d02        0xe 
+ .text.hard_fault
+                0x0000000008006d10        0x2 build/entry.o
+ *fill*         0x0000000008006d12        0xe 
+ .text.mem_manage
+                0x0000000008006d20        0x2 build/entry.o
+ *fill*         0x0000000008006d22        0xe 
+ .text.bus_fault
+                0x0000000008006d30        0x2 build/entry.o
+ *fill*         0x0000000008006d32        0xe 
+ .text.usage_fault
+                0x0000000008006d40        0x2 build/entry.o
+ *fill*         0x0000000008006d42        0xe 
+ .text.none     0x0000000008006d50        0x2 build/entry.o
+ *fill*         0x0000000008006d52        0xe 
+ .text.clock_init
+                0x0000000008006d60        0xc build/entry.o
+ *fill*         0x0000000008006d6c        0x4 
+ .text.gpio_init
+                0x0000000008006d70        0xc build/entry.o
+ *fill*         0x0000000008006d7c        0x4 
+ .text.ll_dequeue
+                0x0000000008006d80       0x10 build/chopstx.o
+ .text.ll_pop   0x0000000008006d90       0x10 build/chopstx.o
+ .text.chx_cpu_sched_lock
+                0x0000000008006da0       0x18 build/chopstx.o
+ *fill*         0x0000000008006db8        0x8 
+ .text.chx_cpu_sched_unlock
+                0x0000000008006dc0       0x18 build/chopstx.o
+ *fill*         0x0000000008006dd8        0x8 
+ .text.chx_sched
+                0x0000000008006de0        0x4 build/chopstx.o
+ *fill*         0x0000000008006de4        0xc 
+ .text.ll_prio_enqueue
+                0x0000000008006df0       0x24 build/chopstx.o
+ *fill*         0x0000000008006e14        0xc 
+ .text.chx_ready_enqueue
+                0x0000000008006e20       0x14 build/chopstx.o
+ *fill*         0x0000000008006e34        0xc 
+ .text.chx_mutex_unlock
+                0x0000000008006e40       0x44 build/chopstx.o
+ *fill*         0x0000000008006e84        0xc 
+ .text.requeue  0x0000000008006e90       0x3e build/chopstx.o
+ *fill*         0x0000000008006ece        0x2 
+ .text.chx_set_timer
+                0x0000000008006ed0       0x24 build/chopstx.o
+ *fill*         0x0000000008006ef4        0xc 
+ .text.chx_timer_insert
+                0x0000000008006f00       0x5c build/chopstx.o
+ *fill*         0x0000000008006f5c        0x4 
+ .text.chx_timer_dequeue
+                0x0000000008006f60       0x50 build/chopstx.o
+ .text.chx_wakeup
+                0x0000000008006fb0       0x64 build/chopstx.o
+ *fill*         0x0000000008007014        0xc 
+ .text.chopstx_exit
+                0x0000000008007020       0x90 build/chopstx.o
+                0x0000000008007020                chopstx_exit
+ .text.chx_snooze
+                0x00000000080070b0       0x54 build/chopstx.o
+ *fill*         0x0000000008007104        0xc 
+ .text.chx_fatal
+                0x0000000008007110        0x2 build/chopstx.o
+                0x0000000008007110                chx_fatal
+ *fill*         0x0000000008007112        0xe 
+ .text.idle     0x0000000008007120        0x2 build/chopstx.o
+ *fill*         0x0000000008007122        0xe 
+ .text.chx_handle_intr
+                0x0000000008007130       0x68 build/chopstx.o
+                0x0000000008007130                chx_handle_intr
+ *fill*         0x0000000008007198        0x8 
+ .text.preempt  0x00000000080071a0      0x108 build/chopstx.o
+                0x00000000080071a0                preempt
+ *fill*         0x00000000080072a8        0x8 
+ .text.svc      0x00000000080072b0       0x68 build/chopstx.o
+                0x00000000080072b0                svc
+ *fill*         0x0000000008007318        0x8 
+ .text.chx_timer_expired
+                0x0000000008007320       0xa8 build/chopstx.o
+                0x0000000008007320                chx_timer_expired
+ *fill*         0x00000000080073c8        0x8 
+ .text.chx_systick_init
+                0x00000000080073d0       0x18 build/chopstx.o
+                0x00000000080073d0                chx_systick_init
+ *fill*         0x00000000080073e8        0x8 
+ .text.chx_init
+                0x00000000080073f0       0x94 build/chopstx.o
+                0x00000000080073f0                chx_init
+ *fill*         0x0000000008007484        0xc 
+ .text.chopstx_create
+                0x0000000008007490       0xc4 build/chopstx.o
+                0x0000000008007490                chopstx_create
+ *fill*         0x0000000008007554        0xc 
+ .text.chopstx_mutex_init
+                0x0000000008007560        0xc build/chopstx.o
+                0x0000000008007560                chopstx_mutex_init
+ *fill*         0x000000000800756c        0x4 
+ .text.chopstx_mutex_lock
+                0x0000000008007570       0x90 build/chopstx.o
+                0x0000000008007570                chopstx_mutex_lock
+ .text.chopstx_mutex_unlock
+                0x0000000008007600       0x2c build/chopstx.o
+                0x0000000008007600                chopstx_mutex_unlock
+ *fill*         0x000000000800762c        0x4 
+ .text.chopstx_cond_init
+                0x0000000008007630        0x6 build/chopstx.o
+                0x0000000008007630                chopstx_cond_init
+ *fill*         0x0000000008007636        0xa 
+ .text.chopstx_cond_signal
+                0x0000000008007640       0x24 build/chopstx.o
+                0x0000000008007640                chopstx_cond_signal
+ *fill*         0x0000000008007664        0xc 
+ .text.chopstx_claim_irq
+                0x0000000008007670       0x58 build/chopstx.o
+                0x0000000008007670                chopstx_claim_irq
+ *fill*         0x00000000080076c8        0x8 
+ .text.chopstx_testcancel
+                0x00000000080076d0       0x20 build/chopstx.o
+                0x00000000080076d0                chopstx_testcancel
+ .text.chopstx_usec_wait
+                0x00000000080076f0       0x20 build/chopstx.o
+                0x00000000080076f0                chopstx_usec_wait
+ .text.chopstx_cond_wait
+                0x0000000008007710       0x5c build/chopstx.o
+                0x0000000008007710                chopstx_cond_wait
+ *fill*         0x000000000800776c        0x4 
+ .text.chopstx_poll
+                0x0000000008007770      0x23c build/chopstx.o
+                0x0000000008007770                chopstx_poll
+ *fill*         0x00000000080079ac        0x4 
+ .text.eventflag_check
+                0x00000000080079b0        0xa build/eventflag.o
+ *fill*         0x00000000080079ba        0x6 
+ .text.eventflag_init
+                0x00000000080079c0       0x18 build/eventflag.o
+                0x00000000080079c0                eventflag_init
+ *fill*         0x00000000080079d8        0x8 
+ .text.eventflag_prepare_poll
+                0x00000000080079e0       0x1c build/eventflag.o
+                0x00000000080079e0                eventflag_prepare_poll
+ *fill*         0x00000000080079fc        0x4 
+ .text.eventflag_get
+                0x0000000008007a00       0x34 build/eventflag.o
+                0x0000000008007a00                eventflag_get
+ *fill*         0x0000000008007a34        0xc 
+ .text.eventflag_wait
+                0x0000000008007a40       0x42 build/eventflag.o
+                0x0000000008007a40                eventflag_wait
+ *fill*         0x0000000008007a82        0xe 
+ .text.eventflag_wait_timeout
+                0x0000000008007a90       0x38 build/eventflag.o
+                0x0000000008007a90                eventflag_wait_timeout
+ *fill*         0x0000000008007ac8        0x8 
+ .text.eventflag_signal
+                0x0000000008007ad0       0x26 build/eventflag.o
+                0x0000000008007ad0                eventflag_signal
+ *fill*         0x0000000008007af6        0xa 
+ .text.st103_ep_set_rx_status
+                0x0000000008007b00       0x22 build/usb-stm32f103.o
+ *fill*         0x0000000008007b22        0xe 
+ .text.st103_ep_set_tx_status
+                0x0000000008007b30       0x22 build/usb-stm32f103.o
+ *fill*         0x0000000008007b52        0xe 
+ .text.std_none
+                0x0000000008007b60        0x6 build/usb-stm32f103.o
+ *fill*         0x0000000008007b66        0xa 
+ .text.std_get_descriptor
+                0x0000000008007b70       0x10 build/usb-stm32f103.o
+ .text.std_set_configuration
+                0x0000000008007b80       0x24 build/usb-stm32f103.o
+ *fill*         0x0000000008007ba4        0xc 
+ .text.std_get_interface
+                0x0000000008007bb0       0x30 build/usb-stm32f103.o
+ .text.std_set_interface
+                0x0000000008007be0       0x32 build/usb-stm32f103.o
+ *fill*         0x0000000008007c12        0xe 
+ .text.st103_ep_set_rxtx_status.constprop.4
+                0x0000000008007c20       0x24 build/usb-stm32f103.o
+ *fill*         0x0000000008007c44        0xc 
+ .text.std_clear_feature
+                0x0000000008007c50       0x90 build/usb-stm32f103.o
+ .text.std_set_feature
+                0x0000000008007ce0       0x7c build/usb-stm32f103.o
+ *fill*         0x0000000008007d5c        0x4 
+ .text.usb_lld_ctrl_error
+                0x0000000008007d60        0xe build/usb-stm32f103.o
+                0x0000000008007d60                usb_lld_ctrl_error
+ *fill*         0x0000000008007d6e        0x2 
+ .text.usb_lld_ctrl_ack
+                0x0000000008007d70       0x20 build/usb-stm32f103.o
+                0x0000000008007d70                usb_lld_ctrl_ack
+ .text.std_set_address
+                0x0000000008007d90       0x28 build/usb-stm32f103.o
+ *fill*         0x0000000008007db8        0x8 
+ .text.usb_lld_init
+                0x0000000008007dc0       0x34 build/usb-stm32f103.o
+                0x0000000008007dc0                usb_lld_init
+ *fill*         0x0000000008007df4        0xc 
+ .text.usb_lld_reset
+                0x0000000008007e00       0x1c build/usb-stm32f103.o
+                0x0000000008007e00                usb_lld_reset
+ *fill*         0x0000000008007e1c        0x4 
+ .text.usb_lld_tx_enable
+                0x0000000008007e20       0x14 build/usb-stm32f103.o
+                0x0000000008007e20                usb_lld_tx_enable
+ *fill*         0x0000000008007e34        0xc 
+ .text.usb_lld_stall_tx
+                0x0000000008007e40        0x8 build/usb-stm32f103.o
+                0x0000000008007e40                usb_lld_stall_tx
+ *fill*         0x0000000008007e48        0x8 
+ .text.usb_lld_stall_rx
+                0x0000000008007e50        0xa build/usb-stm32f103.o
+                0x0000000008007e50                usb_lld_stall_rx
+ *fill*         0x0000000008007e5a        0x6 
+ .text.usb_lld_rx_enable
+                0x0000000008007e60        0xa build/usb-stm32f103.o
+                0x0000000008007e60                usb_lld_rx_enable
+ *fill*         0x0000000008007e6a        0x6 
+ .text.usb_lld_setup_endpoint
+                0x0000000008007e70       0x88 build/usb-stm32f103.o
+                0x0000000008007e70                usb_lld_setup_endpoint
+ *fill*         0x0000000008007ef8        0x8 
+ .text.usb_lld_set_configuration
+                0x0000000008007f00        0x4 build/usb-stm32f103.o
+                0x0000000008007f00                usb_lld_set_configuration
+ *fill*         0x0000000008007f04        0xc 
+ .text.usb_lld_current_configuration
+                0x0000000008007f10        0x4 build/usb-stm32f103.o
+                0x0000000008007f10                usb_lld_current_configuration
+ *fill*         0x0000000008007f14        0xc 
+ .text.usb_lld_to_pmabuf
+                0x0000000008007f20       0x60 build/usb-stm32f103.o
+                0x0000000008007f20                usb_lld_to_pmabuf
+ .text.usb_lld_txcpy
+                0x0000000008007f80       0x18 build/usb-stm32f103.o
+                0x0000000008007f80                usb_lld_txcpy
+ *fill*         0x0000000008007f98        0x8 
+ .text.usb_lld_from_pmabuf
+                0x0000000008007fa0       0x5c build/usb-stm32f103.o
+                0x0000000008007fa0                usb_lld_from_pmabuf
+ *fill*         0x0000000008007ffc        0x4 
+ .text.usb_lld_event_handler
+                0x0000000008008000      0x248 build/usb-stm32f103.o
+                0x0000000008008000                usb_lld_event_handler
+ *fill*         0x0000000008008248        0x8 
+ .text.usb_lld_rxcpy
+                0x0000000008008250       0x1c build/usb-stm32f103.o
+                0x0000000008008250                usb_lld_rxcpy
+ *fill*         0x000000000800826c        0x4 
+ .text.usb_lld_ctrl_send
+                0x0000000008008270       0x6c build/usb-stm32f103.o
+                0x0000000008008270                usb_lld_ctrl_send
+ *fill*         0x00000000080082dc        0x4 
+ .text.std_get_configuration
+                0x00000000080082e0       0x2c build/usb-stm32f103.o
+ *fill*         0x000000000800830c        0x4 
+ .text.std_get_status
+                0x0000000008008310       0xaa build/usb-stm32f103.o
+ *fill*         0x00000000080083ba        0x6 
+ .text.adc_init
+                0x00000000080083c0       0x7c build/adc-stm32f103.o
+                0x00000000080083c0                adc_init
+ *fill*         0x000000000800843c        0x4 
+ .text.adc_start
+                0x0000000008008440       0xbc build/adc-stm32f103.o
+                0x0000000008008440                adc_start
+ *fill*         0x00000000080084fc        0x4 
+ .text.adc_start_conversion
+                0x0000000008008500       0x44 build/adc-stm32f103.o
+                0x0000000008008500                adc_start_conversion
+ *fill*         0x0000000008008544        0xc 
+ .text.adc_stop
+                0x0000000008008550       0x30 build/adc-stm32f103.o
+                0x0000000008008550                adc_stop
+ .text.adc_wait_completion
+                0x0000000008008580       0x78 build/adc-stm32f103.o
+                0x0000000008008580                adc_wait_completion
+ *fill*         0x00000000080085f8        0x8 
+ .text.memcmp   0x0000000008008600       0x64 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+                0x0000000008008600                memcmp
+ *fill*         0x0000000008008664        0xc 
+ .text.memset   0x0000000008008670       0x94 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                0x0000000008008670                memset
+ *(.rodata)
+ *(.rodata.*)
+ *fill*         0x0000000008008704        0xc 
+ .rodata.hid_report_desc
+                0x0000000008008710       0x22 build/usb-hid.o
+ *fill*         0x0000000008008732        0xe 
+ .rodata.u2f_config_desc
+                0x0000000008008740       0x29 build/usb-hid.o
+ *fill*         0x0000000008008769        0x7 
+ .rodata.u2f_device_desc
+                0x0000000008008770       0x12 build/usb-hid.o
+ *fill*         0x0000000008008782        0xe 
+ .rodata.usb_string0
+                0x0000000008008790        0x4 build/usb-hid.o
+ *fill*         0x0000000008008794        0xc 
+ .rodata.usb_string1
+                0x00000000080087a0       0x14 build/usb-hid.o
+ *fill*         0x00000000080087b4        0xc 
+ .rodata.usb_string2
+                0x00000000080087c0       0x24 build/usb-hid.o
+ *fill*         0x00000000080087e4        0xc 
+ .rodata.usb_string3
+                0x00000000080087f0       0x1c build/usb-hid.o
+ *fill*         0x000000000800880c        0x4 
+ .rodata.attestation_der
+                0x0000000008008810      0x11b build/u2f-apdu.o
+                0x0000000008008810                attestation_der
+ *fill*         0x000000000800892b        0x5 
+ .rodata.attestation_key
+                0x0000000008008930       0x20 build/u2f-apdu.o
+                0x0000000008008930                attestation_key
+ .rodata.u2f_apdu_command_do.str1.1
+                0x0000000008008950        0x7 build/u2f-apdu.o
+ *fill*         0x0000000008008957        0x9 
+ .rodata.initial_state
+                0x0000000008008960       0x20 build/sha256.o
+ .rodata.k256   0x0000000008008980      0x100 build/sha256.o
+ .rodata.MU_lower
+                0x0000000008008a80       0x20 build/ec_p256r1.o
+ .rodata.N      0x0000000008008aa0       0x20 build/ec_p256r1.o
+ .rodata.precomputed_2E_KG
+                0x0000000008008ac0      0x3c0 build/ec_p256r1.o
+ .rodata.precomputed_KG
+                0x0000000008008e80      0x3c0 build/ec_p256r1.o
+ .rodata.p256r1
+                0x0000000008009240       0x20 build/modp256r1.o
+                0x0000000008009240                p256r1
+ .rodata.CSWTCH.59
+                0x0000000008009260       0x30 build/usb-stm32f103.o
+ *(.glue_7t)
+ .glue_7t       0x0000000008009290        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000008009290        0x0 linker stubs
+ *(.gcc*)
+                0x0000000008009290                . = ALIGN (0x8)
+
+.vfp11_veneer   0x0000000008009290        0x0
+ .vfp11_veneer  0x0000000008009290        0x0 linker stubs
+
+.v4_bx          0x0000000008009290        0x0
+ .v4_bx         0x0000000008009290        0x0 linker stubs
+
+.iplt           0x0000000008009290        0x0
+ .iplt          0x0000000008009290        0x0 build/u2f.o
+
+.rel.dyn        0x0000000008009290        0x0
+ .rel.iplt      0x0000000008009290        0x0 build/u2f.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x0000000008009290        0x0
+                [!provide]                        PROVIDE (__exidx_start = .)
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                [!provide]                        PROVIDE (__exidx_end = .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.textalign      0x0000000008009290        0x0
+                0x0000000008009290                . = ALIGN (0x8)
+                0x0000000008009290                _etext = .
+                0x0000000008009290                _textdata = _etext
+
+.process_stack  0x0000000020000000     0x2100
+                0x0000000020000000                . = ALIGN (0x8)
+                0x0000000020000000                __process6_stack_base__ = .
+                0x0000000020000200                . = (. + __process6_stack_size__)
+ *fill*         0x0000000020000000      0x200 
+                0x0000000020000200                . = ALIGN (0x8)
+                0x0000000020000200                __process6_stack_end__ = .
+                0x0000000020000200                __process5_stack_base__ = .
+                0x0000000020000700                . = (. + __process5_stack_size__)
+ *fill*         0x0000000020000200      0x500 
+                0x0000000020000700                . = ALIGN (0x8)
+                0x0000000020000700                __process5_stack_end__ = .
+                0x0000000020000700                __process4_stack_base__ = .
+                0x0000000020001700                . = (. + __process4_stack_size__)
+ *fill*         0x0000000020000700     0x1000 
+                0x0000000020001700                . = ALIGN (0x8)
+                0x0000000020001700                __process4_stack_end__ = .
+                0x0000000020001700                __process3_stack_base__ = .
+                0x0000000020001900                . = (. + __process3_stack_size__)
+ *fill*         0x0000000020001700      0x200 
+                0x0000000020001900                . = ALIGN (0x8)
+                0x0000000020001900                __process3_stack_end__ = .
+                0x0000000020001900                __process2_stack_base__ = .
+                0x0000000020001b00                . = (. + __process2_stack_size__)
+ *fill*         0x0000000020001900      0x200 
+                0x0000000020001b00                . = ALIGN (0x8)
+                0x0000000020001b00                __process2_stack_end__ = .
+                0x0000000020001b00                __process1_stack_base__ = .
+                0x0000000020001d00                . = (. + __process1_stack_size__)
+ *fill*         0x0000000020001b00      0x200 
+                0x0000000020001d00                . = ALIGN (0x8)
+                0x0000000020001d00                __process1_stack_end__ = .
+                0x0000000020001d00                __process0_stack_base__ = .
+                0x0000000020002100                . = (. + __process0_stack_size__)
+ *fill*         0x0000000020001d00      0x400 
+                0x0000000020002100                . = ALIGN (0x8)
+                0x0000000020002100                __process0_stack_end__ = .
+
+.main_stack     0x0000000020002100      0x100
+                0x0000000020002100                . = ALIGN (0x8)
+                0x0000000020002100                __main_stack_base__ = .
+                0x0000000020002200                . = (. + __main_stack_size__)
+ *fill*         0x0000000020002100      0x100 
+                0x0000000020002200                . = ALIGN (0x8)
+                0x0000000020002200                __main_stack_end__ = .
+
+.data           0x0000000020002200        0x8 load address 0x0000000008009290
+                0x0000000020002200                . = ALIGN (0x4)
+                0x0000000020002200                PROVIDE (_data = .)
+ *(.data)
+                0x0000000020002200                . = ALIGN (0x4)
+ *(.data.*)
+ .data.ctr_addr
+                0x0000000020002200        0x4 build/u2f-apdu.o
+ .data.touch    0x0000000020002204        0x4 build/uvoid.o
+                0x0000000020002208                . = ALIGN (0x4)
+ *(.ramtext)
+                0x0000000020002208                . = ALIGN (0x4)
+                0x0000000020002208                PROVIDE (_edata = .)
+
+.igot.plt       0x0000000020002208        0x0 load address 0x0000000008009298
+ .igot.plt      0x0000000020002208        0x0 build/u2f.o
+
+.bss            0x0000000020002208      0x818 load address 0x0000000008009298
+                0x0000000020002208                . = ALIGN (0x4)
+                0x0000000020002208                PROVIDE (_bss_start = .)
+ *(.bss)
+                0x0000000020002208                . = ALIGN (0x4)
+ *(.bss.*)
+ .bss.blink_is_on
+                0x0000000020002208        0x1 build/u2f.o
+                0x0000000020002208                blink_is_on
+ *fill*         0x0000000020002209        0x3 
+ .bss.cnd0      0x000000002000220c        0x8 build/u2f.o
+ .bss.cnd1      0x0000000020002214        0x8 build/u2f.o
+ .bss.mtx       0x000000002000221c       0x10 build/u2f.o
+ .bss.v         0x000000002000222c        0x1 build/u2f.o
+                0x000000002000222c                v
+ *fill*         0x000000002000222d        0x3 
+ .bss.dev       0x0000000020002230       0x14 build/usb-hid.o
+ .bss.hid_idle_rate
+                0x0000000020002244        0x1 build/usb-hid.o
+ *fill*         0x0000000020002245        0x1 
+ .bss.interrupt
+                0x0000000020002246        0x6 build/usb-hid.o
+ .bss.usb_hid   0x000000002000224c       0x9c build/usb-hid.o
+ .bss.u2f_hid   0x00000000200022e8      0x4f4 build/u2f-hid.o
+ .bss.ap4096t_a
+                0x00000000200027dc        0x1 build/neug.o
+ *fill*         0x00000000200027dd        0x1 
+ .bss.ap4096t_b
+                0x00000000200027de        0x2 build/neug.o
+ .bss.ap4096t_s
+                0x00000000200027e0        0x2 build/neug.o
+ .bss.ap64t_a   0x00000000200027e2        0x1 build/neug.o
+ .bss.ap64t_b   0x00000000200027e3        0x1 build/neug.o
+ .bss.ap64t_s   0x00000000200027e4        0x1 build/neug.o
+ .bss.ep_round  0x00000000200027e5        0x1 build/neug.o
+ *fill*         0x00000000200027e6        0x2 
+ .bss.mode_cond
+                0x00000000200027e8        0x8 build/neug.o
+ .bss.mode_mtx  0x00000000200027f0       0x10 build/neug.o
+ .bss.neug_err_cnt
+                0x0000000020002800        0x2 build/neug.o
+                0x0000000020002800                neug_err_cnt
+ .bss.neug_err_cnt_p4k
+                0x0000000020002802        0x2 build/neug.o
+                0x0000000020002802                neug_err_cnt_p4k
+ .bss.neug_err_cnt_p64
+                0x0000000020002804        0x2 build/neug.o
+                0x0000000020002804                neug_err_cnt_p64
+ .bss.neug_err_cnt_rc
+                0x0000000020002806        0x2 build/neug.o
+                0x0000000020002806                neug_err_cnt_rc
+ .bss.neug_err_state
+                0x0000000020002808        0x1 build/neug.o
+                0x0000000020002808                neug_err_state
+ .bss.neug_mode
+                0x0000000020002809        0x1 build/neug.o
+                0x0000000020002809                neug_mode
+ .bss.neug_p4k_max
+                0x000000002000280a        0x2 build/neug.o
+                0x000000002000280a                neug_p4k_max
+ .bss.neug_p64_max
+                0x000000002000280c        0x2 build/neug.o
+                0x000000002000280c                neug_p64_max
+ .bss.neug_rc_max
+                0x000000002000280e        0x2 build/neug.o
+                0x000000002000280e                neug_rc_max
+ .bss.rct_a     0x0000000020002810        0x1 build/neug.o
+ .bss.rct_b     0x0000000020002811        0x1 build/neug.o
+ *fill*         0x0000000020002812        0x2 
+ .bss.rng_should_terminate
+                0x0000000020002814        0x4 build/neug.o
+ .bss.rng_thread
+                0x0000000020002818        0x4 build/neug.o
+ .bss.sha256_ctx_data
+                0x000000002000281c       0x68 build/neug.o
+ .bss.sha256_output
+                0x0000000020002884       0x20 build/neug.o
+ .bss.the_ring_buffer
+                0x00000000200028a4       0x28 build/neug.o
+ .bss.random_word
+                0x00000000200028cc       0x20 build/random.o
+ .bss.chopstx_main
+                0x00000000200028ec        0x4 build/chopstx.o
+                0x00000000200028ec                chopstx_main
+ .bss.q_intr    0x00000000200028f0        0x8 build/chopstx.o
+ .bss.q_join    0x00000000200028f8        0x8 build/chopstx.o
+ .bss.q_ready   0x0000000020002900        0x8 build/chopstx.o
+ .bss.q_timer   0x0000000020002908        0x8 build/chopstx.o
+ .bss.running   0x0000000020002910        0x4 build/chopstx.o
+                0x0000000020002910                running
+ .bss.adc_buf   0x0000000020002914      0x100 build/adc-stm32f103.o
+                0x0000000020002914                adc_buf
+ .bss.adc_err   0x0000000020002a14        0x4 build/adc-stm32f103.o
+ .bss.adc_intr  0x0000000020002a18        0x6 build/adc-stm32f103.o
+                0x0000000020002a20                . = ALIGN (0x4)
+ *fill*         0x0000000020002a1e        0x2 
+ *(COMMON)
+                0x0000000020002a20                . = ALIGN (0x4)
+                0x0000000020002a20                PROVIDE (_bss_end = .)
+
+.flash_storage  0x0000000008011800      0x800
+                0x0000000008011800                . = ALIGN (0x400)
+                0x0000000008011800                _device_key_base = .
+ *(.device.key)
+ .device.key    0x0000000008011800      0x400 build/u2f-apdu.o
+                0x0000000008011800                device_key
+                0x0000000008011c00                . = ALIGN (0x400)
+                0x0000000008011c00                _auth_ctr_base = .
+ *(.auth.ctr)
+ .auth.ctr      0x0000000008011c00      0x400 build/u2f-apdu.o
+                0x0000000008011c00                auth_ctr
+                0x0000000008012000                . = ALIGN (0x400)
+                [!provide]                        PROVIDE (end = .)
+                0x0000000008012000                _end = .
+                0x0000000008012000                __heap_base__ = _end
+                0x0000000020005000                __heap_end__ = __ram_end__
+OUTPUT(build/u2f.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000    0x1a747
+ .debug_info    0x0000000000000000      0xeaf build/u2f.o
+ .debug_info    0x0000000000000eaf     0x1aa1 build/usb-hid.o
+ .debug_info    0x0000000000002950     0x1206 build/u2f-hid.o
+ .debug_info    0x0000000000003b56     0x1de3 build/u2f-apdu.o
+ .debug_info    0x0000000000005939      0xc3f build/sha256.o
+ .debug_info    0x0000000000006578     0x2738 build/neug.o
+ .debug_info    0x0000000000008cb0      0xb8f build/random.o
+ .debug_info    0x000000000000983f     0x16db build/ec_p256r1.o
+ .debug_info    0x000000000000af1a      0xf26 build/bn.o
+ .debug_info    0x000000000000be40     0x118e build/jpc_p256r1.o
+ .debug_info    0x000000000000cfce      0xbc1 build/call-ec_p256r1.o
+ .debug_info    0x000000000000db8f      0xf20 build/modp256r1.o
+ .debug_info    0x000000000000eaaf     0x11c6 build/mod.o
+ .debug_info    0x000000000000fc75      0x608 build/hmac.o
+ .debug_info    0x000000000001027d      0x953 build/platform.o
+ .debug_info    0x0000000000010bd0      0x9f4 build/uvoid.o
+ .debug_info    0x00000000000115c4      0xa33 build/entry.o
+ .debug_info    0x0000000000011ff7     0x2c7f build/chopstx.o
+ .debug_info    0x0000000000014c76      0xde2 build/eventflag.o
+ .debug_info    0x0000000000015a58     0x1241 build/sys-stm32f103.o
+ .debug_info    0x0000000000016c99     0x279d build/usb-stm32f103.o
+ .debug_info    0x0000000000019436     0x1311 build/adc-stm32f103.o
+
+.debug_abbrev   0x0000000000000000     0x48ce
+ .debug_abbrev  0x0000000000000000      0x31e build/u2f.o
+ .debug_abbrev  0x000000000000031e      0x44c build/usb-hid.o
+ .debug_abbrev  0x000000000000076a      0x389 build/u2f-hid.o
+ .debug_abbrev  0x0000000000000af3      0x4a7 build/u2f-apdu.o
+ .debug_abbrev  0x0000000000000f9a      0x2ab build/sha256.o
+ .debug_abbrev  0x0000000000001245      0x5ac build/neug.o
+ .debug_abbrev  0x00000000000017f1      0x280 build/random.o
+ .debug_abbrev  0x0000000000001a71      0x395 build/ec_p256r1.o
+ .debug_abbrev  0x0000000000001e06      0x2fa build/bn.o
+ .debug_abbrev  0x0000000000002100      0x27e build/jpc_p256r1.o
+ .debug_abbrev  0x000000000000237e      0x237 build/call-ec_p256r1.o
+ .debug_abbrev  0x00000000000025b5      0x290 build/modp256r1.o
+ .debug_abbrev  0x0000000000002845      0x250 build/mod.o
+ .debug_abbrev  0x0000000000002a95      0x1c2 build/hmac.o
+ .debug_abbrev  0x0000000000002c57      0x1ac build/platform.o
+ .debug_abbrev  0x0000000000002e03      0x25c build/uvoid.o
+ .debug_abbrev  0x000000000000305f      0x1e4 build/entry.o
+ .debug_abbrev  0x0000000000003243      0x69d build/chopstx.o
+ .debug_abbrev  0x00000000000038e0      0x2f6 build/eventflag.o
+ .debug_abbrev  0x0000000000003bd6      0x47e build/sys-stm32f103.o
+ .debug_abbrev  0x0000000000004054      0x547 build/usb-stm32f103.o
+ .debug_abbrev  0x000000000000459b      0x333 build/adc-stm32f103.o
+
+.debug_loc      0x0000000000000000     0x84d3
+ .debug_loc     0x0000000000000000       0xd5 build/u2f.o
+ .debug_loc     0x00000000000000d5      0x670 build/usb-hid.o
+ .debug_loc     0x0000000000000745      0x489 build/u2f-hid.o
+ .debug_loc     0x0000000000000bce      0x7fa build/u2f-apdu.o
+ .debug_loc     0x00000000000013c8      0x2d2 build/sha256.o
+ .debug_loc     0x000000000000169a      0x971 build/neug.o
+ .debug_loc     0x000000000000200b      0x125 build/random.o
+ .debug_loc     0x0000000000002130      0x6f8 build/ec_p256r1.o
+ .debug_loc     0x0000000000002828      0xa8e build/bn.o
+ .debug_loc     0x00000000000032b6      0x1c0 build/jpc_p256r1.o
+ .debug_loc     0x0000000000003476      0x555 build/call-ec_p256r1.o
+ .debug_loc     0x00000000000039cb      0x2f5 build/modp256r1.o
+ .debug_loc     0x0000000000003cc0      0x902 build/mod.o
+ .debug_loc     0x00000000000045c2      0x5c9 build/hmac.o
+ .debug_loc     0x0000000000004b8b       0x65 build/uvoid.o
+ .debug_loc     0x0000000000004bf0     0x1328 build/chopstx.o
+ .debug_loc     0x0000000000005f18      0x1ff build/eventflag.o
+ .debug_loc     0x0000000000006117      0x3a0 build/sys-stm32f103.o
+ .debug_loc     0x00000000000064b7     0x1ef3 build/usb-stm32f103.o
+ .debug_loc     0x00000000000083aa      0x129 build/adc-stm32f103.o
+
+.debug_aranges  0x0000000000000000      0x898
+ .debug_aranges
+                0x0000000000000000       0x30 build/u2f.o
+ .debug_aranges
+                0x0000000000000030       0x40 build/usb-hid.o
+ .debug_aranges
+                0x0000000000000070       0x38 build/u2f-hid.o
+ .debug_aranges
+                0x00000000000000a8       0x70 build/u2f-apdu.o
+ .debug_aranges
+                0x0000000000000118       0x40 build/sha256.o
+ .debug_aranges
+                0x0000000000000158       0xb0 build/neug.o
+ .debug_aranges
+                0x0000000000000208       0x48 build/random.o
+ .debug_aranges
+                0x0000000000000250       0x40 build/ec_p256r1.o
+ .debug_aranges
+                0x0000000000000290       0x78 build/bn.o
+ .debug_aranges
+                0x0000000000000308       0x38 build/jpc_p256r1.o
+ .debug_aranges
+                0x0000000000000340       0x38 build/call-ec_p256r1.o
+ .debug_aranges
+                0x0000000000000378       0x48 build/modp256r1.o
+ .debug_aranges
+                0x00000000000003c0       0x28 build/mod.o
+ .debug_aranges
+                0x00000000000003e8       0x48 build/hmac.o
+ .debug_aranges
+                0x0000000000000430       0x20 build/platform.o
+ .debug_aranges
+                0x0000000000000450       0x38 build/uvoid.o
+ .debug_aranges
+                0x0000000000000488       0x60 build/entry.o
+ .debug_aranges
+                0x00000000000004e8      0x168 build/chopstx.o
+ .debug_aranges
+                0x0000000000000650       0x50 build/eventflag.o
+ .debug_aranges
+                0x00000000000006a0       0x90 build/sys-stm32f103.o
+ .debug_aranges
+                0x0000000000000730      0x128 build/usb-stm32f103.o
+ .debug_aranges
+                0x0000000000000858       0x40 build/adc-stm32f103.o
+
+.debug_ranges   0x0000000000000000     0x12c8
+ .debug_ranges  0x0000000000000000       0x38 build/u2f.o
+ .debug_ranges  0x0000000000000038      0x118 build/usb-hid.o
+ .debug_ranges  0x0000000000000150       0xb0 build/u2f-hid.o
+ .debug_ranges  0x0000000000000200       0xe0 build/u2f-apdu.o
+ .debug_ranges  0x00000000000002e0       0x48 build/sha256.o
+ .debug_ranges  0x0000000000000328      0x370 build/neug.o
+ .debug_ranges  0x0000000000000698       0x38 build/random.o
+ .debug_ranges  0x00000000000006d0       0xe0 build/ec_p256r1.o
+ .debug_ranges  0x00000000000007b0       0x98 build/bn.o
+ .debug_ranges  0x0000000000000848       0x28 build/jpc_p256r1.o
+ .debug_ranges  0x0000000000000870       0x28 build/call-ec_p256r1.o
+ .debug_ranges  0x0000000000000898       0x38 build/modp256r1.o
+ .debug_ranges  0x00000000000008d0       0x18 build/mod.o
+ .debug_ranges  0x00000000000008e8       0x78 build/hmac.o
+ .debug_ranges  0x0000000000000960       0x10 build/platform.o
+ .debug_ranges  0x0000000000000970       0x28 build/uvoid.o
+ .debug_ranges  0x0000000000000998       0x50 build/entry.o
+ .debug_ranges  0x00000000000009e8      0x3e8 build/chopstx.o
+ .debug_ranges  0x0000000000000dd0       0x60 build/eventflag.o
+ .debug_ranges  0x0000000000000e30       0x80 build/sys-stm32f103.o
+ .debug_ranges  0x0000000000000eb0      0x3c8 build/usb-stm32f103.o
+ .debug_ranges  0x0000000000001278       0x50 build/adc-stm32f103.o
+
+.debug_line     0x0000000000000000     0x4097
+ .debug_line    0x0000000000000000      0x22b build/u2f.o
+ .debug_line    0x000000000000022b      0x2ac build/usb-hid.o
+ .debug_line    0x00000000000004d7      0x28f build/u2f-hid.o
+ .debug_line    0x0000000000000766      0x36f build/u2f-apdu.o
+ .debug_line    0x0000000000000ad5      0x265 build/sha256.o
+ .debug_line    0x0000000000000d3a      0x5a5 build/neug.o
+ .debug_line    0x00000000000012df      0x18a build/random.o
+ .debug_line    0x0000000000001469      0x2b2 build/ec_p256r1.o
+ .debug_line    0x000000000000171b      0x318 build/bn.o
+ .debug_line    0x0000000000001a33      0x1ea build/jpc_p256r1.o
+ .debug_line    0x0000000000001c1d      0x222 build/call-ec_p256r1.o
+ .debug_line    0x0000000000001e3f      0x26d build/modp256r1.o
+ .debug_line    0x00000000000020ac      0x224 build/mod.o
+ .debug_line    0x00000000000022d0      0x141 build/hmac.o
+ .debug_line    0x0000000000002411      0x13e build/platform.o
+ .debug_line    0x000000000000254f      0x17b build/uvoid.o
+ .debug_line    0x00000000000026ca      0x1dd build/entry.o
+ .debug_line    0x00000000000028a7      0x930 build/chopstx.o
+ .debug_line    0x00000000000031d7      0x1eb build/eventflag.o
+ .debug_line    0x00000000000033c2      0x32b build/sys-stm32f103.o
+ .debug_line    0x00000000000036ed      0x74d build/usb-stm32f103.o
+ .debug_line    0x0000000000003e3a      0x25d build/adc-stm32f103.o
+
+.debug_str      0x0000000000000000     0x2c00
+ .debug_str     0x0000000000000000      0x71d build/u2f.o
+                                        0x7e4 (size before relaxing)
+ .debug_str     0x000000000000071d      0x706 build/usb-hid.o
+                                        0xdf5 (size before relaxing)
+ .debug_str     0x0000000000000e23      0x187 build/u2f-hid.o
+                                        0x7e8 (size before relaxing)
+ .debug_str     0x0000000000000faa      0x347 build/u2f-apdu.o
+                                        0xa09 (size before relaxing)
+ .debug_str     0x00000000000012f1       0x5d build/sha256.o
+                                        0x63c (size before relaxing)
+ .debug_str     0x000000000000134e      0x68d build/neug.o
+                                        0xdcf (size before relaxing)
+ .debug_str     0x00000000000019db       0x52 build/random.o
+                                        0x6d4 (size before relaxing)
+ .debug_str     0x0000000000001a2d      0x1d8 build/ec_p256r1.o
+                                        0x7a0 (size before relaxing)
+ .debug_str     0x0000000000001c05       0x41 build/bn.o
+                                        0x677 (size before relaxing)
+ .debug_str     0x0000000000001c46       0x46 build/jpc_p256r1.o
+                                        0x662 (size before relaxing)
+ .debug_str     0x0000000000001c8c       0x46 build/call-ec_p256r1.o
+                                        0x640 (size before relaxing)
+ .debug_str     0x0000000000001cd2       0x1d build/modp256r1.o
+                                        0x636 (size before relaxing)
+ .debug_str     0x0000000000001cef       0x18 build/mod.o
+                                        0x5f7 (size before relaxing)
+ .debug_str     0x0000000000001d07       0x84 build/hmac.o
+                                        0x2f3 (size before relaxing)
+ .debug_str     0x0000000000001d8b        0xb build/platform.o
+                                        0x5bc (size before relaxing)
+ .debug_str     0x0000000000001d96       0x44 build/uvoid.o
+                                        0x62f (size before relaxing)
+ .debug_str     0x0000000000001dda       0x74 build/entry.o
+                                        0x64f (size before relaxing)
+ .debug_str     0x0000000000001e4e      0x6c9 build/chopstx.o
+                                        0xe47 (size before relaxing)
+ .debug_str     0x0000000000002517       0x27 build/eventflag.o
+                                        0x7d3 (size before relaxing)
+ .debug_str     0x000000000000253e      0x144 build/sys-stm32f103.o
+                                        0x851 (size before relaxing)
+ .debug_str     0x0000000000002682      0x527 build/usb-stm32f103.o
+                                        0xf0f (size before relaxing)
+ .debug_str     0x0000000000002ba9       0x57 build/adc-stm32f103.o
+                                        0x956 (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f build/u2f.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 build/usb-hid.o
+ .comment       0x000000000000007f       0x80 build/u2f-hid.o
+ .comment       0x000000000000007f       0x80 build/u2f-apdu.o
+ .comment       0x000000000000007f       0x80 build/sha256.o
+ .comment       0x000000000000007f       0x80 build/neug.o
+ .comment       0x000000000000007f       0x80 build/random.o
+ .comment       0x000000000000007f       0x80 build/ec_p256r1.o
+ .comment       0x000000000000007f       0x80 build/bn.o
+ .comment       0x000000000000007f       0x80 build/jpc_p256r1.o
+ .comment       0x000000000000007f       0x80 build/call-ec_p256r1.o
+ .comment       0x000000000000007f       0x80 build/modp256r1.o
+ .comment       0x000000000000007f       0x80 build/mod.o
+ .comment       0x000000000000007f       0x80 build/hmac.o
+ .comment       0x000000000000007f       0x80 build/platform.o
+ .comment       0x000000000000007f       0x80 build/uvoid.o
+ .comment       0x000000000000007f       0x80 build/entry.o
+ .comment       0x000000000000007f       0x80 build/chopstx.o
+ .comment       0x000000000000007f       0x80 build/eventflag.o
+ .comment       0x000000000000007f       0x80 build/sys-stm32f103.o
+ .comment       0x000000000000007f       0x80 build/usb-stm32f103.o
+ .comment       0x000000000000007f       0x80 build/adc-stm32f103.o
+
+.ARM.attributes
+                0x0000000000000000       0x31
+ .ARM.attributes
+                0x0000000000000000       0x33 build/u2f.o
+ .ARM.attributes
+                0x0000000000000033       0x33 build/usb-hid.o
+ .ARM.attributes
+                0x0000000000000066       0x33 build/u2f-hid.o
+ .ARM.attributes
+                0x0000000000000099       0x33 build/u2f-apdu.o
+ .ARM.attributes
+                0x00000000000000cc       0x33 build/sha256.o
+ .ARM.attributes
+                0x00000000000000ff       0x33 build/neug.o
+ .ARM.attributes
+                0x0000000000000132       0x33 build/random.o
+ .ARM.attributes
+                0x0000000000000165       0x33 build/ec_p256r1.o
+ .ARM.attributes
+                0x0000000000000198       0x33 build/bn.o
+ .ARM.attributes
+                0x00000000000001cb       0x33 build/jpc_p256r1.o
+ .ARM.attributes
+                0x00000000000001fe       0x33 build/call-ec_p256r1.o
+ .ARM.attributes
+                0x0000000000000231       0x33 build/modp256r1.o
+ .ARM.attributes
+                0x0000000000000264       0x33 build/mod.o
+ .ARM.attributes
+                0x0000000000000297       0x33 build/hmac.o
+ .ARM.attributes
+                0x00000000000002ca       0x33 build/platform.o
+ .ARM.attributes
+                0x00000000000002fd       0x33 build/uvoid.o
+ .ARM.attributes
+                0x0000000000000330       0x33 build/entry.o
+ .ARM.attributes
+                0x0000000000000363       0x33 build/chopstx.o
+ .ARM.attributes
+                0x0000000000000396       0x33 build/eventflag.o
+ .ARM.attributes
+                0x00000000000003c9       0x33 build/sys-stm32f103.o
+ .ARM.attributes
+                0x00000000000003fc       0x33 build/usb-stm32f103.o
+ .ARM.attributes
+                0x000000000000042f       0x33 build/adc-stm32f103.o
+ .ARM.attributes
+                0x0000000000000462       0x2d /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x000000000000048f       0x1b /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000000000004aa       0x2d /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+
+.debug_frame    0x0000000000000000     0x1988
+ .debug_frame   0x0000000000000000       0x70 build/u2f.o
+ .debug_frame   0x0000000000000070       0xc4 build/usb-hid.o
+ .debug_frame   0x0000000000000134       0xbc build/u2f-hid.o
+ .debug_frame   0x00000000000001f0      0x178 build/u2f-apdu.o
+ .debug_frame   0x0000000000000368      0x100 build/sha256.o
+ .debug_frame   0x0000000000000468      0x25c build/neug.o
+ .debug_frame   0x00000000000006c4       0xc0 build/random.o
+ .debug_frame   0x0000000000000784       0xf4 build/ec_p256r1.o
+ .debug_frame   0x0000000000000878      0x1a0 build/bn.o
+ .debug_frame   0x0000000000000a18       0xb8 build/jpc_p256r1.o
+ .debug_frame   0x0000000000000ad0       0x9c build/call-ec_p256r1.o
+ .debug_frame   0x0000000000000b6c       0xf0 build/modp256r1.o
+ .debug_frame   0x0000000000000c5c       0x70 build/mod.o
+ .debug_frame   0x0000000000000ccc       0xb0 build/hmac.o
+ .debug_frame   0x0000000000000d7c       0x20 build/platform.o
+ .debug_frame   0x0000000000000d9c       0x6c build/uvoid.o
+ .debug_frame   0x0000000000000e08       0xa0 build/entry.o
+ .debug_frame   0x0000000000000ea8      0x4c4 build/chopstx.o
+ .debug_frame   0x000000000000136c       0xdc build/eventflag.o
+ .debug_frame   0x0000000000001448      0x148 build/sys-stm32f103.o
+ .debug_frame   0x0000000000001590      0x2fc build/usb-stm32f103.o
+ .debug_frame   0x000000000000188c       0x8c build/adc-stm32f103.o
+ .debug_frame   0x0000000000001918       0x38 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000001950       0x38 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+
+Cross Reference Table
+
+Symbol                                            File
+FT0                                               build/sys-stm32f103.o
+FT1                                               build/sys-stm32f103.o
+FT2                                               build/sys-stm32f103.o
+__main_stack_end__                                build/chopstx.o
+                                                  build/entry.o
+__process0_stack_end__                            build/entry.o
+__process1_stack_base__                           build/u2f.o
+__process1_stack_size__                           build/u2f.o
+__process2_stack_base__                           build/u2f.o
+__process2_stack_size__                           build/u2f.o
+__process3_stack_base__                           build/usb-hid.o
+__process3_stack_size__                           build/usb-hid.o
+__process4_stack_base__                           build/u2f-hid.o
+__process4_stack_size__                           build/u2f-hid.o
+__process5_stack_base__                           build/neug.o
+__process5_stack_size__                           build/neug.o
+__process6_stack_base__                           build/uvoid.o
+__process6_stack_size__                           build/uvoid.o
+__ram_end__                                       build/sys-stm32f103.o
+_bss_end                                          build/entry.o
+_bss_start                                        build/entry.o
+_data                                             build/entry.o
+_edata                                            build/entry.o
+_textdata                                         build/entry.o
+adc_buf                                           build/adc-stm32f103.o
+                                                  build/neug.o
+adc_init                                          build/adc-stm32f103.o
+                                                  build/u2f.o
+adc_start                                         build/adc-stm32f103.o
+                                                  build/neug.o
+adc_start_conversion                              build/adc-stm32f103.o
+                                                  build/neug.o
+adc_stop                                          build/adc-stm32f103.o
+                                                  build/neug.o
+adc_wait_completion                               build/adc-stm32f103.o
+                                                  build/neug.o
+attestation_der                                   build/u2f-apdu.o
+attestation_key                                   build/u2f-apdu.o
+auth_ctr                                          build/u2f-apdu.o
+blink_is_on                                       build/u2f.o
+                                                  build/u2f-hid.o
+bn256_add                                         build/bn.o
+                                                  build/mod.o
+                                                  build/modp256r1.o
+                                                  build/ec_p256r1.o
+bn256_add_uint                                    build/bn.o
+                                                  build/ec_p256r1.o
+bn256_cmp                                         build/bn.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+bn256_is_even                                     build/bn.o
+                                                  build/mod.o
+                                                  build/ec_p256r1.o
+bn256_is_ge                                       build/bn.o
+                                                  build/mod.o
+bn256_is_zero                                     build/bn.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+bn256_mul                                         build/bn.o
+                                                  build/mod.o
+                                                  build/modp256r1.o
+                                                  build/ec_p256r1.o
+bn256_random                                      build/bn.o
+                                                  build/ec_p256r1.o
+bn256_shift                                       build/bn.o
+                                                  build/mod.o
+                                                  build/modp256r1.o
+bn256_sqr                                         build/bn.o
+                                                  build/modp256r1.o
+bn256_sub                                         build/bn.o
+                                                  build/mod.o
+                                                  build/modp256r1.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+bn256_sub_uint                                    build/bn.o
+                                                  build/ec_p256r1.o
+check_secret_p256r1                               build/ec_p256r1.o
+                                                  build/call-ec_p256r1.o
+chopstx_cancel                                    build/chopstx.o
+chopstx_claim_irq                                 build/chopstx.o
+                                                  build/adc-stm32f103.o
+                                                  build/usb-hid.o
+chopstx_cleanup_pop                               build/chopstx.o
+chopstx_cleanup_push                              build/chopstx.o
+chopstx_cond_broadcast                            build/chopstx.o
+chopstx_cond_init                                 build/chopstx.o
+                                                  build/eventflag.o
+                                                  build/neug.o
+                                                  build/u2f.o
+chopstx_cond_signal                               build/chopstx.o
+                                                  build/eventflag.o
+                                                  build/neug.o
+                                                  build/u2f.o
+chopstx_cond_wait                                 build/chopstx.o
+                                                  build/eventflag.o
+                                                  build/neug.o
+                                                  build/u2f.o
+chopstx_create                                    build/chopstx.o
+                                                  build/uvoid.o
+                                                  build/neug.o
+                                                  build/u2f-hid.o
+                                                  build/usb-hid.o
+                                                  build/u2f.o
+chopstx_exit                                      build/chopstx.o
+chopstx_intr_wait                                 build/chopstx.o
+chopstx_join                                      build/chopstx.o
+                                                  build/neug.o
+chopstx_main                                      build/chopstx.o
+chopstx_mutex_init                                build/chopstx.o
+                                                  build/eventflag.o
+                                                  build/neug.o
+                                                  build/u2f.o
+chopstx_mutex_lock                                build/chopstx.o
+                                                  build/eventflag.o
+                                                  build/neug.o
+                                                  build/u2f.o
+chopstx_mutex_unlock                              build/chopstx.o
+                                                  build/eventflag.o
+                                                  build/neug.o
+                                                  build/u2f.o
+chopstx_poll                                      build/chopstx.o
+                                                  build/adc-stm32f103.o
+                                                  build/eventflag.o
+                                                  build/usb-hid.o
+chopstx_setcancelstate                            build/chopstx.o
+chopstx_setpriority                               build/chopstx.o
+chopstx_testcancel                                build/chopstx.o
+chopstx_usec_wait                                 build/chopstx.o
+                                                  build/uvoid.o
+                                                  build/u2f.o
+chx_fatal                                         build/chopstx.o
+chx_handle_intr                                   build/chopstx.o
+                                                  build/entry.o
+chx_init                                          build/chopstx.o
+                                                  build/entry.o
+chx_systick_init                                  build/chopstx.o
+                                                  build/entry.o
+chx_timer_expired                                 build/chopstx.o
+                                                  build/entry.o
+compute_kG_p256r1                                 build/ec_p256r1.o
+                                                  build/call-ec_p256r1.o
+compute_kP_p256r1                                 build/ec_p256r1.o
+                                                  build/call-ec_p256r1.o
+crc32_rv_get                                      build/neug.o
+crc32_rv_reset                                    build/neug.o
+crc32_rv_step                                     build/neug.o
+dbg_print                                         build/dbug.o
+dbg_send_command                                  build/dbug.o
+device_key                                        build/u2f-apdu.o
+ecc_check_secret_p256r1                           build/call-ec_p256r1.o
+ecc_compute_public_p256r1                         build/call-ec_p256r1.o
+                                                  build/u2f-apdu.o
+ecdh_decrypt_p256r1                               build/call-ec_p256r1.o
+ecdsa_p256r1                                      build/ec_p256r1.o
+                                                  build/call-ec_p256r1.o
+ecdsa_sign_p256r1                                 build/call-ec_p256r1.o
+                                                  build/u2f-apdu.o
+eventflag_get                                     build/eventflag.o
+                                                  build/usb-hid.o
+eventflag_init                                    build/eventflag.o
+                                                  build/usb-hid.o
+eventflag_prepare_poll                            build/eventflag.o
+                                                  build/usb-hid.o
+eventflag_signal                                  build/eventflag.o
+                                                  build/usb-hid.o
+eventflag_wait                                    build/eventflag.o
+                                                  build/usb-hid.o
+eventflag_wait_timeout                            build/eventflag.o
+                                                  build/usb-hid.o
+hid_open                                          build/usb-hid.o
+                                                  build/u2f.o
+hid_recv                                          build/usb-hid.o
+                                                  build/u2f-hid.o
+hid_send                                          build/usb-hid.o
+                                                  build/u2f-hid.o
+hmac_sha256_finish                                build/hmac.o
+                                                  build/u2f-apdu.o
+hmac_sha256_init                                  build/hmac.o
+                                                  build/u2f-apdu.o
+hmac_sha256_update                                build/hmac.o
+                                                  build/u2f-apdu.o
+jpc_add_ac_p256r1                                 build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+jpc_add_ac_signed_p256r1                          build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+jpc_double_p256r1                                 build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+jpc_to_ac_p256r1                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+main                                              build/u2f.o
+                                                  build/entry.o
+memcmp                                            /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcmp.o)
+                                                  build/u2f-apdu.o
+memcpy                                            /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memcpy.o)
+                                                  build/random.o
+                                                  build/sha256.o
+                                                  build/u2f-apdu.o
+                                                  build/u2f-hid.o
+                                                  build/usb-hid.o
+memset                                            /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-memset.o)
+                                                  build/chopstx.o
+                                                  build/mod.o
+                                                  build/modp256r1.o
+                                                  build/jpc_p256r1.o
+                                                  build/bn.o
+                                                  build/ec_p256r1.o
+                                                  build/random.o
+                                                  build/sha256.o
+                                                  build/u2f-hid.o
+                                                  build/usb-hid.o
+mod_inv                                           build/mod.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+mod_reduce                                        build/mod.o
+                                                  build/ec_p256r1.o
+modp256r1_add                                     build/modp256r1.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+modp256r1_mul                                     build/modp256r1.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+modp256r1_reduce                                  build/modp256r1.o
+modp256r1_shift                                   build/modp256r1.o
+                                                  build/jpc_p256r1.o
+modp256r1_sqr                                     build/modp256r1.o
+                                                  build/jpc_p256r1.o
+                                                  build/ec_p256r1.o
+modp256r1_sub                                     build/modp256r1.o
+                                                  build/jpc_p256r1.o
+neug_consume_random                               build/neug.o
+neug_err_cnt                                      build/neug.o
+neug_err_cnt_p4k                                  build/neug.o
+neug_err_cnt_p64                                  build/neug.o
+neug_err_cnt_rc                                   build/neug.o
+neug_err_state                                    build/neug.o
+neug_fini                                         build/neug.o
+                                                  build/random.o
+neug_flush                                        build/neug.o
+                                                  build/random.o
+neug_get                                          build/neug.o
+                                                  build/random.o
+neug_get_nonblock                                 build/neug.o
+neug_init                                         build/neug.o
+                                                  build/random.o
+neug_kick_filling                                 build/neug.o
+neug_mode                                         build/neug.o
+neug_mode_select                                  build/neug.o
+neug_p4k_max                                      build/neug.o
+neug_p64_max                                      build/neug.o
+neug_rc_max                                       build/neug.o
+neug_wait_full                                    build/neug.o
+                                                  build/random.o
+p256r1                                            build/modp256r1.o
+                                                  build/jpc_p256r1.o
+platform_init                                     build/platform.o
+                                                  build/u2f.o
+preempt                                           build/chopstx.o
+                                                  build/entry.o
+random_bytes_free                                 build/random.o
+                                                  build/bn.o
+                                                  build/u2f-apdu.o
+random_bytes_get                                  build/random.o
+                                                  build/bn.o
+random_fini                                       build/random.o
+random_gen                                        build/random.o
+                                                  build/u2f-apdu.o
+random_get_salt                                   build/random.o
+random_init                                       build/random.o
+                                                  build/u2f.o
+rbit                                              build/neug.o
+running                                           build/chopstx.o
+set_led                                           build/sys-stm32f103.o
+sha256                                            build/sha256.o
+sha256_finish                                     build/sha256.o
+                                                  build/hmac.o
+                                                  build/neug.o
+                                                  build/u2f-apdu.o
+sha256_process                                    build/sha256.o
+                                                  build/neug.o
+sha256_start                                      build/sha256.o
+                                                  build/hmac.o
+                                                  build/neug.o
+                                                  build/u2f-apdu.o
+sha256_update                                     build/sha256.o
+                                                  build/hmac.o
+                                                  build/u2f-apdu.o
+strlen                                            /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/libc.a(lib_a-strlen-stub.o)
+                                                  build/dbug.o
+svc                                               build/chopstx.o
+                                                  build/entry.o
+sys_board_id                                      build/sys-stm32f103.o
+                                                  build/adc-stm32f103.o
+sys_board_name                                    build/sys-stm32f103.o
+sys_version                                       build/sys-stm32f103.o
+u2f_apdu_command_do                               build/u2f-apdu.o
+                                                  build/u2f-hid.o
+u2f_apdu_init                                     build/u2f-apdu.o
+                                                  build/u2f-hid.o
+u2f_hid_open                                      build/u2f-hid.o
+                                                  build/u2f.o
+usb_lld_ctrl_ack                                  build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_ctrl_error                                build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_ctrl_recv                                 build/usb-stm32f103.o
+usb_lld_ctrl_send                                 build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_current_configuration                     build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_event_handler                             build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_from_pmabuf                               build/usb-stm32f103.o
+usb_lld_init                                      build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_prepare_shutdown                          build/usb-stm32f103.o
+usb_lld_reset                                     build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_rx_enable                                 build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_rxcpy                                     build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_set_configuration                         build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_setup_endpoint                            build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_shutdown                                  build/usb-stm32f103.o
+usb_lld_stall_rx                                  build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_stall_tx                                  build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_to_pmabuf                                 build/usb-stm32f103.o
+usb_lld_tx_enable                                 build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_txcpy                                     build/usb-stm32f103.o
+                                                  build/usb-hid.o
+usb_lld_write                                     build/usb-stm32f103.o
+user_presence_get                                 build/uvoid.o
+                                                  build/u2f-apdu.o
+                                                  build/u2f.o
+user_presence_reset                               build/uvoid.o
+                                                  build/u2f-apdu.o
+uvoid_init                                        build/uvoid.o
+                                                  build/u2f.o
+v                                                 build/u2f.o
+vector                                            build/sys-stm32f103.o
+                                                  build/usb-stm32f103.o
+                                                  build/entry.o
+                                                  build/u2f-apdu.o
+                                                  build/u2f.o
+vector_table                                      build/entry.o
