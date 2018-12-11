@@ -1,0 +1,876 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                              miniblink.o (gpio_enable_ahb_aperture)
+/home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+                              (reset_handler)
+/home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+                              miniblink.o (periph_clock_enable)
+/home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                              miniblink.o (rcc_pll_bypass_enable)
+/home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+                              miniblink.o (nvic_enable_irq)
+/usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcpy.o)
+                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o) (memcpy)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .text          0x0000000000000000        0x0 miniblink.o
+ .data          0x0000000000000000        0x0 miniblink.o
+ .bss           0x0000000000000000        0x0 miniblink.o
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .text          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .data          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .bss           0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .text.gpio_set_af
+                0x0000000000000000       0x52 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .text.gpio_toggle
+                0x0000000000000000        0xe /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .text.gpio_disable_interrupts
+                0x0000000000000000        0x4 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000      0xa4e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x56 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x51 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0xef /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000      0x1df /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000       0xfa /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000000000      0x136 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .text          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .data          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .bss           0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000      0xa4e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0x58 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0x56 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0x51 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0xef /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000      0x1df /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfa /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x0000000000000000      0x2a5 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .text          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .data          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .bss           0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .text.periph_clock_disable
+                0x0000000000000000       0x1e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000      0xa4e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0x56 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0x51 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0xef /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000      0x1df /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000       0xfa /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000      0x136 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x0000000000000000      0x690 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .data          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .bss           0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_disable_main_osc
+                0x0000000000000000       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_disable_interal_osc
+                0x0000000000000000       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_enable_interal_osc
+                0x0000000000000000       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_pll_off
+                0x0000000000000000       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_set_pwm_divisor
+                0x0000000000000000       0x18 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_usb_pll_off
+                0x0000000000000000       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_usb_pll_on
+                0x0000000000000000       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .text.rcc_get_system_clock_frequency
+                0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000      0xa4e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x56 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x51 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0xef /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x1df /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000       0xfa /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x136 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x690 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .data          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .bss           0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_disable_irq
+                0x0000000000000000       0x1c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_get_pending_irq
+                0x0000000000000000       0x24 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_set_pending_irq
+                0x0000000000000000       0x1c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_clear_pending_irq
+                0x0000000000000000       0x1c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_get_irq_enabled
+                0x0000000000000000       0x24 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_set_priority
+                0x0000000000000000       0x20 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_get_active_irq
+                0x0000000000000000       0x24 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .text.nvic_generate_software_interrupt
+                0x0000000000000000       0x14 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000      0xa4e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x56 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x51 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0xef /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000      0x1df /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0xfa /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x58 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000       0x64 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x0000000000000000      0x2a5 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .data          0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000000000000 0x0000000000040000 xr
+ram              0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD miniblink.o
+LOAD /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libg.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a
+END GROUP
+
+.text           0x0000000000000000      0x928
+ *(.vectors)
+ .vectors       0x0000000000000000      0x26c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+                0x0000000000000000                vector_table
+ *(.text*)
+ .text.delay    0x000000000000026c       0x10 miniblink.o
+ .text.startup.main
+                0x000000000000027c       0xa0 miniblink.o
+                0x000000000000027c                main
+ .text.gpiof_isr
+                0x000000000000031c       0x84 miniblink.o
+                0x000000000000031c                gpiof_isr
+ .text.gpio_enable_ahb_aperture
+                0x00000000000003a0       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                0x00000000000003a0                gpio_enable_ahb_aperture
+ .text.gpio_mode_setup
+                0x00000000000003b0       0x94 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                0x00000000000003b0                gpio_mode_setup
+ .text.gpio_set_output_config
+                0x0000000000000444       0x5e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                0x0000000000000444                gpio_set_output_config
+ *fill*         0x00000000000004a2        0x2 
+ .text.gpio_unlock_commit
+                0x00000000000004a4       0x20 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                0x00000000000004a4                gpio_unlock_commit
+ .text.gpio_configure_trigger
+                0x00000000000004c4       0x86 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                0x00000000000004c4                gpio_configure_trigger
+ .text.gpio_enable_interrupts
+                0x000000000000054a        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                0x000000000000054a                gpio_enable_interrupts
+ .text.blocking_handler
+                0x0000000000000556        0x2 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+                0x0000000000000556                ssi0_isr
+                0x0000000000000556                timer3b_isr
+                0x0000000000000556                pwm1_3_isr
+                0x0000000000000556                gpiom_isr
+                0x0000000000000556                adc1ss1_isr
+                0x0000000000000556                uart0_isr
+                0x0000000000000556                timer0a_isr
+                0x0000000000000556                i2c0_isr
+                0x0000000000000556                udmaerr_isr
+                0x0000000000000556                udma_isr
+                0x0000000000000556                gpiop4_isr
+                0x0000000000000556                gpioq2_isr
+                0x0000000000000556                gpiog_isr
+                0x0000000000000556                blocking_handler
+                0x0000000000000556                uart2_isr
+                0x0000000000000556                gpioq5_isr
+                0x0000000000000556                pwm1_0_isr
+                0x0000000000000556                pwm0_0_isr
+                0x0000000000000556                timer5b_isr
+                0x0000000000000556                watchdog_isr
+                0x0000000000000556                i2c1_isr
+                0x0000000000000556                i2c2_isr
+                0x0000000000000556                gpiop2_isr
+                0x0000000000000556                wtimer5a_isr
+                0x0000000000000556                usage_fault_handler
+                0x0000000000000556                comp2_isr
+                0x0000000000000556                pwm0_fault_isr
+                0x0000000000000556                wtimer4b_isr
+                0x0000000000000556                i2c3_isr
+                0x0000000000000556                lpc0_isr
+                0x0000000000000556                pwm1_2_isr
+                0x0000000000000556                epi0_isr
+                0x0000000000000556                pwm0_2_isr
+                0x0000000000000556                gpiop1_isr
+                0x0000000000000556                eth_isr
+                0x0000000000000556                gpioq1_isr
+                0x0000000000000556                uart6_isr
+                0x0000000000000556                timer2b_isr
+                0x0000000000000556                wtimer3b_isr
+                0x0000000000000556                fan0_isr
+                0x0000000000000556                adc1ss3_isr
+                0x0000000000000556                qei0_isr
+                0x0000000000000556                wtimer5b_isr
+                0x0000000000000556                ssi3_isr
+                0x0000000000000556                gpiol_isr
+                0x0000000000000556                flash_isr
+                0x0000000000000556                uart4_isr
+                0x0000000000000556                comp0_isr
+                0x0000000000000556                gpioq6_isr
+                0x0000000000000556                gpiop0_isr
+                0x0000000000000556                hard_fault_handler
+                0x0000000000000556                gpiop6_isr
+                0x0000000000000556                sysctl_isr
+                0x0000000000000556                qei1_isr
+                0x0000000000000556                timer4b_isr
+                0x0000000000000556                gpioa_isr
+                0x0000000000000556                usb0_isr
+                0x0000000000000556                gpioq0_isr
+                0x0000000000000556                uart1_isr
+                0x0000000000000556                gpiob_isr
+                0x0000000000000556                adc0ss3_isr
+                0x0000000000000556                comp1_isr
+                0x0000000000000556                gpioe_isr
+                0x0000000000000556                wtimer0b_isr
+                0x0000000000000556                pwm0_1_isr
+                0x0000000000000556                wtimer2a_isr
+                0x0000000000000556                wtimer1b_isr
+                0x0000000000000556                wtimer2b_isr
+                0x0000000000000556                gpioq4_isr
+                0x0000000000000556                wtimer0a_isr
+                0x0000000000000556                adc0ss1_isr
+                0x0000000000000556                uart5_isr
+                0x0000000000000556                timer1b_isr
+                0x0000000000000556                wtimer3a_isr
+                0x0000000000000556                i2c5_isr
+                0x0000000000000556                can2_isr
+                0x0000000000000556                gpion_isr
+                0x0000000000000556                adc0ss2_isr
+                0x0000000000000556                gpioj_isr
+                0x0000000000000556                gpioh_isr
+                0x0000000000000556                gpioq7_isr
+                0x0000000000000556                mem_manage_handler
+                0x0000000000000556                gpiod_isr
+                0x0000000000000556                pwm0_3_isr
+                0x0000000000000556                ssi2_isr
+                0x0000000000000556                timer5a_isr
+                0x0000000000000556                gpiop7_isr
+                0x0000000000000556                gpioc_isr
+                0x0000000000000556                gpioq3_isr
+                0x0000000000000556                uart7_isr
+                0x0000000000000556                pwm1_fault_isr
+                0x0000000000000556                hibernate_isr
+                0x0000000000000556                gpiop5_isr
+                0x0000000000000556                i2s0_isr
+                0x0000000000000556                adc1ss2_isr
+                0x0000000000000556                peci0_isr
+                0x0000000000000556                timer3a_isr
+                0x0000000000000556                can0_isr
+                0x0000000000000556                i2c4_isr
+                0x0000000000000556                sysexc_isr
+                0x0000000000000556                gpiop3_isr
+                0x0000000000000556                timer4a_isr
+                0x0000000000000556                can1_isr
+                0x0000000000000556                timer1a_isr
+                0x0000000000000556                adc0ss0_isr
+                0x0000000000000556                ssi1_isr
+                0x0000000000000556                wtimer4a_isr
+                0x0000000000000556                wtimer1a_isr
+                0x0000000000000556                bus_fault_handler
+                0x0000000000000556                gpiok_isr
+                0x0000000000000556                pwm1_1_isr
+                0x0000000000000556                timer2a_isr
+                0x0000000000000556                uart3_isr
+                0x0000000000000556                adc1ss0_isr
+                0x0000000000000556                timer0b_isr
+ .text.null_handler
+                0x0000000000000558        0x2 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+                0x0000000000000558                null_handler
+                0x0000000000000558                sv_call_handler
+                0x0000000000000558                pend_sv_handler
+                0x0000000000000558                debug_monitor_handler
+                0x0000000000000558                sys_tick_handler
+                0x0000000000000558                nmi_handler
+ *fill*         0x000000000000055a        0x2 
+ .text.reset_handler
+                0x000000000000055c       0x9c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+                0x000000000000055c                reset_handler
+ .text.periph_clock_enable
+                0x00000000000005f8       0x1a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+                0x00000000000005f8                periph_clock_enable
+ *fill*         0x0000000000000612        0x2 
+ .text.rcc_configure_xtal
+                0x0000000000000614       0x18 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x0000000000000614                rcc_configure_xtal
+ .text.rcc_enable_main_osc
+                0x000000000000062c       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x000000000000062c                rcc_enable_main_osc
+ .text.rcc_enable_rcc2
+                0x000000000000063c       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x000000000000063c                rcc_enable_rcc2
+ .text.rcc_pll_on
+                0x000000000000064c       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x000000000000064c                rcc_pll_on
+ .text.rcc_set_osc_source
+                0x000000000000065c       0x18 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x000000000000065c                rcc_set_osc_source
+ .text.rcc_pll_bypass_disable
+                0x0000000000000674       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x0000000000000674                rcc_pll_bypass_disable
+ .text.rcc_pll_bypass_enable
+                0x0000000000000684       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x0000000000000684                rcc_pll_bypass_enable
+ .text.rcc_set_pll_divisor
+                0x0000000000000694       0x28 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x0000000000000694                rcc_set_pll_divisor
+ .text.rcc_wait_for_pll_ready
+                0x00000000000006bc       0x10 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x00000000000006bc                rcc_wait_for_pll_ready
+ .text.rcc_change_pll_divisor
+                0x00000000000006cc       0x28 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x00000000000006cc                rcc_change_pll_divisor
+ .text.rcc_sysclk_config
+                0x00000000000006f4       0x88 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x00000000000006f4                rcc_sysclk_config
+ .text.nvic_enable_irq
+                0x000000000000077c       0x1c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+                0x000000000000077c                nvic_enable_irq
+ .text          0x0000000000000798      0x134 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcpy.o)
+                0x0000000000000798                memcpy
+                0x00000000000008cc                . = ALIGN (0x4)
+ *(.rodata*)
+ .rodata.plldiv
+                0x00000000000008cc        0x6 miniblink.o
+ *fill*         0x00000000000008d2        0x2 
+ .rodata        0x00000000000008d4       0x54 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x0000000000000928                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000928        0x0
+ .glue_7        0x0000000000000928        0x0 linker stubs
+
+.glue_7t        0x0000000000000928        0x0
+ .glue_7t       0x0000000000000928        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000928        0x0
+ .vfp11_veneer  0x0000000000000928        0x0 linker stubs
+
+.v4_bx          0x0000000000000928        0x0
+ .v4_bx         0x0000000000000928        0x0 linker stubs
+
+.iplt           0x0000000000000928        0x0
+ .iplt          0x0000000000000928        0x0 miniblink.o
+
+.rel.dyn        0x0000000000000928        0x0
+ .rel.iplt      0x0000000000000928        0x0 miniblink.o
+
+.preinit_array  0x0000000000000928        0x0
+                0x0000000000000928                . = ALIGN (0x4)
+                0x0000000000000928                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000000000928                __preinit_array_end = .
+
+.init_array     0x0000000000000928        0x0
+                0x0000000000000928                . = ALIGN (0x4)
+                0x0000000000000928                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000000000928                __init_array_end = .
+
+.fini_array     0x0000000000000928        0x0
+                0x0000000000000928                . = ALIGN (0x4)
+                0x0000000000000928                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000000000000928                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0000000000000928        0x0
+                0x0000000000000928                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000000000928                __exidx_end = .
+                0x0000000000000928                . = ALIGN (0x4)
+                0x0000000000000928                _etext = .
+
+.data           0x0000000020000000        0x4 load address 0x0000000000000928
+                0x0000000020000000                _data = .
+ *(.data*)
+ .data.lm4f_rcc_sysclk_freq
+                0x0000000020000000        0x4 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                0x0000000020000000                lm4f_rcc_sysclk_freq
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                _edata = .
+                0x0000000000000928                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x0000000020000004        0x0 load address 0x000000000000092c
+ .igot.plt      0x0000000020000004        0x0 miniblink.o
+
+.bss            0x0000000020000004        0x8 load address 0x000000000000092c
+ *(.bss*)
+ .bss.bypass    0x0000000020000004        0x1 miniblink.o
+ *fill*         0x0000000020000005        0x3 
+ .bss.ipll      0x0000000020000008        0x4 miniblink.o
+ *(COMMON)
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                end = .
+                0x0000000020008000                PROVIDE (_stack = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(miniblink.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x2a5d
+ .debug_info    0x0000000000000000     0x16b6 miniblink.o
+ .debug_info    0x00000000000016b6      0x38c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_info    0x0000000000001a42      0x2b7 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_info    0x0000000000001cf9      0x643 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_info    0x000000000000233c      0x50d /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_info    0x0000000000002849      0x214 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_abbrev   0x0000000000000000      0x908
+ .debug_abbrev  0x0000000000000000      0x350 miniblink.o
+ .debug_abbrev  0x0000000000000350      0x129 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_abbrev  0x0000000000000479      0x136 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_abbrev  0x00000000000005af       0xa0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_abbrev  0x000000000000064f      0x213 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_abbrev  0x0000000000000862       0xa6 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_loc      0x0000000000000000      0xa50
+ .debug_loc     0x0000000000000000      0x280 miniblink.o
+ .debug_loc     0x0000000000000280      0x3d4 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_loc     0x0000000000000654       0xea /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_loc     0x000000000000073e       0x42 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_loc     0x0000000000000780      0x1a7 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_loc     0x0000000000000927      0x129 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_aranges  0x0000000000000000      0x1f0
+ .debug_aranges
+                0x0000000000000000       0x30 miniblink.o
+ .debug_aranges
+                0x0000000000000030       0x58 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_aranges
+                0x0000000000000088       0x30 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_aranges
+                0x00000000000000b8       0x28 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_aranges
+                0x00000000000000e0       0xb0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_aranges
+                0x0000000000000190       0x60 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_ranges   0x0000000000000000      0x1c0
+ .debug_ranges  0x0000000000000000       0x50 miniblink.o
+ .debug_ranges  0x0000000000000050       0x48 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_ranges  0x0000000000000098       0x20 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_ranges  0x00000000000000b8       0x18 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_ranges  0x00000000000000d0       0xa0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_ranges  0x0000000000000170       0x50 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_macro    0x0000000000000000     0x3971
+ .debug_macro   0x0000000000000000      0x1e1 miniblink.o
+ .debug_macro   0x00000000000001e1      0xa4e miniblink.o
+ .debug_macro   0x0000000000000c2f       0x22 miniblink.o
+ .debug_macro   0x0000000000000c51       0x56 miniblink.o
+ .debug_macro   0x0000000000000ca7       0x51 miniblink.o
+ .debug_macro   0x0000000000000cf8       0xef miniblink.o
+ .debug_macro   0x0000000000000de7       0x6a miniblink.o
+ .debug_macro   0x0000000000000e51      0x1df miniblink.o
+ .debug_macro   0x0000000000001030       0x22 miniblink.o
+ .debug_macro   0x0000000000001052       0xfa miniblink.o
+ .debug_macro   0x000000000000114c       0x58 miniblink.o
+ .debug_macro   0x00000000000011a4       0x64 miniblink.o
+ .debug_macro   0x0000000000001208      0x2a5 miniblink.o
+ .debug_macro   0x00000000000014ad      0x136 miniblink.o
+ .debug_macro   0x00000000000015e3      0x690 miniblink.o
+ .debug_macro   0x0000000000001c73      0x18a miniblink.o
+ .debug_macro   0x0000000000001dfd       0x5e miniblink.o
+ .debug_macro   0x0000000000001e5b       0x18 miniblink.o
+ .debug_macro   0x0000000000001e73       0x35 miniblink.o
+ .debug_macro   0x0000000000001ea8       0x34 miniblink.o
+ .debug_macro   0x0000000000001edc       0x16 miniblink.o
+ .debug_macro   0x0000000000001ef2       0x97 miniblink.o
+ .debug_macro   0x0000000000001f89      0x353 miniblink.o
+ .debug_macro   0x00000000000022dc       0xf6 miniblink.o
+ .debug_macro   0x00000000000023d2       0x10 miniblink.o
+ .debug_macro   0x00000000000023e2       0x58 miniblink.o
+ .debug_macro   0x000000000000243a       0x1f miniblink.o
+ .debug_macro   0x0000000000002459       0x43 miniblink.o
+ .debug_macro   0x000000000000249c       0x20 miniblink.o
+ .debug_macro   0x00000000000024bc      0x18e miniblink.o
+ .debug_macro   0x000000000000264a       0x10 miniblink.o
+ .debug_macro   0x000000000000265a       0xb6 miniblink.o
+ .debug_macro   0x0000000000002710       0x16 miniblink.o
+ .debug_macro   0x0000000000002726      0x129 miniblink.o
+ .debug_macro   0x000000000000284f       0xb0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x00000000000028ff      0x184 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000002a83      0x696 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_macro   0x0000000000003119       0xd5 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x00000000000031ee      0x3a1 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x000000000000358f       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_macro   0x00000000000035f9       0x93 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_macro   0x000000000000368c       0x9d /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_macro   0x0000000000003729       0xb4 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .debug_macro   0x00000000000037dd      0x194 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_line     0x0000000000000000     0x1197
+ .debug_line    0x0000000000000000      0x4c0 miniblink.o
+ .debug_line    0x00000000000004c0      0x28f /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_line    0x000000000000074f      0x2e3 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_line    0x0000000000000a32      0x1b7 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_line    0x0000000000000be9      0x33e /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_line    0x0000000000000f27      0x270 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.debug_str      0x0000000000000000     0xe9f1
+ .debug_str     0x0000000000000000     0xbc1e miniblink.o
+                                       0xbe75 (size before relaxing)
+ .debug_str     0x000000000000bc1e      0x1da /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                       0x729e (size before relaxing)
+ .debug_str     0x000000000000bdf8     0x2178 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+                                       0x6cfd (size before relaxing)
+ .debug_str     0x000000000000df70       0x2c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+                                       0x6fa2 (size before relaxing)
+ .debug_str     0x000000000000df9c      0x1cd /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                                       0x6bd4 (size before relaxing)
+ .debug_str     0x000000000000e169      0x888 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+                                       0x5436 (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f miniblink.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .comment       0x000000000000007f       0x80 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .comment       0x000000000000007f       0x80 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .comment       0x000000000000007f       0x80 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .comment       0x000000000000007f       0x80 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+.ARM.attributes
+                0x0000000000000000       0x37
+ .ARM.attributes
+                0x0000000000000000       0x39 miniblink.o
+ .ARM.attributes
+                0x0000000000000039       0x39 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .ARM.attributes
+                0x0000000000000072       0x39 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .ARM.attributes
+                0x00000000000000ab       0x39 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .ARM.attributes
+                0x00000000000000e4       0x39 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .ARM.attributes
+                0x000000000000011d       0x39 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+ .ARM.attributes
+                0x0000000000000156       0x20 /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcpy.o)
+
+.debug_frame    0x0000000000000000      0x390
+ .debug_frame   0x0000000000000000       0x50 miniblink.o
+ .debug_frame   0x0000000000000050       0xb8 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+ .debug_frame   0x0000000000000108       0x4c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ .debug_frame   0x0000000000000154       0x30 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+ .debug_frame   0x0000000000000184      0x16c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+ .debug_frame   0x00000000000002f0       0xa0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__fini_array_end                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+__fini_array_start                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+__init_array_end                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+__init_array_start                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+__preinit_array_end                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+__preinit_array_start                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+_data                                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+_data_loadaddr                                    /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+_ebss                                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+_edata                                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+_stack                                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc0ss0_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc0ss1_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc0ss2_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc0ss3_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc1ss0_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc1ss1_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc1ss2_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+adc1ss3_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+blocking_handler                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+bus_fault_handler                                 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+can0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+can1_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+can2_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+comp0_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+comp1_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+comp2_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+debug_monitor_handler                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+epi0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+eth_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+fan0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+flash_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpio_configure_trigger                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                                  miniblink.o
+gpio_disable_interrupts                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+gpio_enable_ahb_aperture                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                                  miniblink.o
+gpio_enable_interrupts                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                                  miniblink.o
+gpio_mode_setup                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                                  miniblink.o
+gpio_set_af                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+gpio_set_output_config                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                                  miniblink.o
+gpio_toggle                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+gpio_unlock_commit                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(gpio.o)
+                                                  miniblink.o
+gpioa_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiob_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioc_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiod_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioe_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiof_isr                                         miniblink.o
+gpiog_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioh_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioj_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiok_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiol_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiom_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpion_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop0_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop1_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop2_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop3_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop4_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop5_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop6_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpiop7_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq0_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq1_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq2_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq3_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq4_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq5_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq6_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+gpioq7_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+hard_fault_handler                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+hibernate_isr                                     /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2c0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2c1_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2c2_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2c3_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2c4_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2c5_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+i2s0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+lm4f_rcc_sysclk_freq                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+lpc0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+main                                              miniblink.o
+                                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+mem_manage_handler                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+memcpy                                            /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/libc.a(lib_a-memcpy.o)
+                                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+nmi_handler                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+null_handler                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+nvic_clear_pending_irq                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_disable_irq                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_enable_irq                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+                                                  miniblink.o
+nvic_generate_software_interrupt                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_get_active_irq                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_get_irq_enabled                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_get_pending_irq                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_set_pending_irq                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+nvic_set_priority                                 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(nvic.o)
+peci0_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pend_sv_handler                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+periph_clock_disable                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+periph_clock_enable                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(systemcontrol.o)
+                                                  miniblink.o
+pwm0_0_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm0_1_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm0_2_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm0_3_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm0_fault_isr                                    /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm1_0_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm1_1_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm1_2_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm1_3_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+pwm1_fault_isr                                    /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+qei0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+qei1_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+rcc_change_pll_divisor                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                                                  miniblink.o
+rcc_configure_xtal                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_disable_interal_osc                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_disable_main_osc                              /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_enable_interal_osc                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_enable_main_osc                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_enable_rcc2                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_get_system_clock_frequency                    /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_pll_bypass_disable                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_pll_bypass_enable                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                                                  miniblink.o
+rcc_pll_off                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_pll_on                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_set_osc_source                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_set_pll_divisor                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_set_pwm_divisor                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_sysclk_config                                 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+                                                  miniblink.o
+rcc_usb_pll_off                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_usb_pll_on                                    /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+rcc_wait_for_pll_ready                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(rcc.o)
+reset_handler                                     /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ssi0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ssi1_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ssi2_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+ssi3_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+sv_call_handler                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+sys_tick_handler                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+sysctl_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+sysexc_isr                                        /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer0a_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer0b_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer1a_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer1b_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer2a_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer2b_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer3a_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer3b_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer4a_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer4b_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer5a_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+timer5b_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart0_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart1_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart2_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart3_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart4_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart5_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart6_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+uart7_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+udma_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+udmaerr_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+usage_fault_handler                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+usb0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+vector_table                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+watchdog_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer0a_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer0b_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer1a_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer1b_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer2a_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer2b_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer3a_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer3b_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer4a_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer4b_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer5a_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)
+wtimer5b_isr                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_lm4f.a(vector.o)

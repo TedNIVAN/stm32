@@ -1,0 +1,296 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+                              (reset_handler)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .group         0x0000000000000000        0xc miniblink.o
+ .text          0x0000000000000000        0x0 miniblink.o
+ .data          0x0000000000000000        0x0 miniblink.o
+ .bss           0x0000000000000000        0x0 miniblink.o
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0xc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .text          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .data          0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .bss           0x0000000000000000        0x0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x56 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x51 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0xef /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x6a /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000      0x1df /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfa /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0000000020000000 0x0000000000001000 xrw
+rom              0x0000000000000000 0x0000000000004000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD miniblink.o
+LOAD /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v6-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libg.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/libc.a
+END GROUP
+
+.text           0x0000000000000000      0x164
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x0000000000000000                vector_table
+ *(.text*)
+ .text.startup.main
+                0x000000000000008c       0x44 miniblink.o
+                0x000000000000008c                main
+ .text.blocking_handler
+                0x00000000000000d0        0x2 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x00000000000000d0                rtc_isr
+                0x00000000000000d0                ptc_isr
+                0x00000000000000d0                blocking_handler
+                0x00000000000000d0                pm_isr
+                0x00000000000000d0                dmac_isr
+                0x00000000000000d0                dac_isr
+                0x00000000000000d0                evsys_isr
+                0x00000000000000d0                sysctrl_isr
+                0x00000000000000d0                tc1_isr
+                0x00000000000000d0                tc2_isr
+                0x00000000000000d0                wdt_isr
+                0x00000000000000d0                tcc0_isr
+                0x00000000000000d0                hard_fault_handler
+                0x00000000000000d0                sercom1_isr
+                0x00000000000000d0                sercom2_isr
+                0x00000000000000d0                sercom0_isr
+                0x00000000000000d0                eic_isr
+                0x00000000000000d0                reserved1_isr
+                0x00000000000000d0                adc_isr
+                0x00000000000000d0                ac_isr
+                0x00000000000000d0                nvmctrl_isr
+ .text.null_handler
+                0x00000000000000d2        0x2 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x00000000000000d2                null_handler
+                0x00000000000000d2                sv_call_handler
+                0x00000000000000d2                pend_sv_handler
+                0x00000000000000d2                sys_tick_handler
+                0x00000000000000d2                nmi_handler
+ .text.reset_handler
+                0x00000000000000d4       0x90 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x00000000000000d4                reset_handler
+                0x0000000000000164                . = ALIGN (0x4)
+ *(.rodata*)
+                0x0000000000000164                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000164        0x0
+ .glue_7        0x0000000000000164        0x0 linker stubs
+
+.glue_7t        0x0000000000000164        0x0
+ .glue_7t       0x0000000000000164        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000164        0x0
+ .vfp11_veneer  0x0000000000000164        0x0 linker stubs
+
+.v4_bx          0x0000000000000164        0x0
+ .v4_bx         0x0000000000000164        0x0 linker stubs
+
+.iplt           0x0000000000000164        0x0
+ .iplt          0x0000000000000164        0x0 miniblink.o
+
+.rel.dyn        0x0000000000000164        0x0
+ .rel.iplt      0x0000000000000164        0x0 miniblink.o
+
+.preinit_array  0x0000000000000164        0x0
+                0x0000000000000164                . = ALIGN (0x4)
+                0x0000000000000164                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000000000164                __preinit_array_end = .
+
+.init_array     0x0000000000000164        0x0
+                0x0000000000000164                . = ALIGN (0x4)
+                0x0000000000000164                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000000000164                __init_array_end = .
+
+.fini_array     0x0000000000000164        0x0
+                0x0000000000000164                . = ALIGN (0x4)
+                0x0000000000000164                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000000000000164                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0000000000000164        0x0
+                0x0000000000000164                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000000000164                __exidx_end = .
+                0x0000000000000164                . = ALIGN (0x4)
+                0x0000000000000164                _etext = .
+
+.data           0x0000000020000000        0x0 load address 0x0000000000000164
+                0x0000000020000000                _data = .
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+                0x0000000000000164                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x0000000020000000        0x0 load address 0x0000000000000164
+ .igot.plt      0x0000000020000000        0x0 miniblink.o
+
+.bss            0x0000000020000000        0x0 load address 0x0000000000000164
+ *(.bss*)
+ *(COMMON)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                end = .
+                0x0000000020001000                PROVIDE (_stack = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(miniblink.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0x38e
+ .debug_info    0x0000000000000000       0xe7 miniblink.o
+ .debug_info    0x00000000000000e7      0x2a7 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_abbrev   0x0000000000000000      0x1aa
+ .debug_abbrev  0x0000000000000000       0x83 miniblink.o
+ .debug_abbrev  0x0000000000000083      0x127 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_loc      0x0000000000000000      0x119
+ .debug_loc     0x0000000000000000       0x27 miniblink.o
+ .debug_loc     0x0000000000000027       0xf2 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_aranges  0x0000000000000000       0x50
+ .debug_aranges
+                0x0000000000000000       0x20 miniblink.o
+ .debug_aranges
+                0x0000000000000020       0x30 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_ranges   0x0000000000000000       0x50
+ .debug_ranges  0x0000000000000000       0x30 miniblink.o
+ .debug_ranges  0x0000000000000030       0x20 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_macro    0x0000000000000000     0x1e95
+ .debug_macro   0x0000000000000000       0x9d miniblink.o
+ .debug_macro   0x000000000000009d      0xa42 miniblink.o
+ .debug_macro   0x0000000000000adf       0x22 miniblink.o
+ .debug_macro   0x0000000000000b01       0x56 miniblink.o
+ .debug_macro   0x0000000000000b57       0x51 miniblink.o
+ .debug_macro   0x0000000000000ba8       0xef miniblink.o
+ .debug_macro   0x0000000000000c97       0x6a miniblink.o
+ .debug_macro   0x0000000000000d01      0x1df miniblink.o
+ .debug_macro   0x0000000000000ee0       0x22 miniblink.o
+ .debug_macro   0x0000000000000f02       0xfa miniblink.o
+ .debug_macro   0x0000000000000ffc       0x88 miniblink.o
+ .debug_macro   0x0000000000001084       0x5e miniblink.o
+ .debug_macro   0x00000000000010e2       0xd0 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x00000000000011b2      0xa3c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000001bee       0x34 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000001c22      0x1b1 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000001dd3       0x46 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000001e19       0x7c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_line     0x0000000000000000      0x547
+ .debug_line    0x0000000000000000      0x28b miniblink.o
+ .debug_line    0x000000000000028b      0x2bc /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_str      0x0000000000000000     0x537c
+ .debug_str     0x0000000000000000     0x41ce miniblink.o
+                                       0x433f (size before relaxing)
+ .debug_str     0x00000000000041ce     0x11ae /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+                                       0x4f18 (size before relaxing)
+
+.comment        0x0000000000000000       0x7f
+ .comment       0x0000000000000000       0x7f miniblink.o
+                                         0x80 (size before relaxing)
+ .comment       0x000000000000007f       0x80 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x32 miniblink.o
+ .ARM.attributes
+                0x0000000000000032       0x32 /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_frame    0x0000000000000000       0x74
+ .debug_frame   0x0000000000000000       0x28 miniblink.o
+ .debug_frame   0x0000000000000028       0x4c /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__fini_array_end                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+__fini_array_start                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+__init_array_end                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+__init_array_start                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+__preinit_array_end                               /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+__preinit_array_start                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+_data                                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+_data_loadaddr                                    /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+_ebss                                             /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+_edata                                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+_stack                                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ac_isr                                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+adc_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+blocking_handler                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+dac_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+dmac_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+eic_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+evsys_isr                                         /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+hard_fault_handler                                /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+main                                              miniblink.o
+                                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+nmi_handler                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+null_handler                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+nvmctrl_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+pend_sv_handler                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+pm_isr                                            /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+ptc_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+reserved1_isr                                     /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+reset_handler                                     /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+rtc_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+sercom0_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+sercom1_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+sercom2_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+sv_call_handler                                   /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+sys_tick_handler                                  /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+sysctrl_isr                                       /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+tc1_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+tc2_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+tcc0_isr                                          /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+vector_table                                      /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
+wdt_isr                                           /home/jshuo/stm32/libopencm3-stm32f407vg-discovery/libopencm3/lib/libopencm3_samd.a(vector.o)
